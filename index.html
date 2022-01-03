@@ -1,7 +1,122 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body onload="LoadWeapons()">
+<table id="myTable">
+	<thead>
+		<tr class="header">
+			<th style="width:15%;">WeaponObjectReference</th>
+			<th style="width:15%;">WeaponName</th>
+			<th style="width:15%;">WeaponSprite</th>
+			<th style="width:55%;">WeaponDescription</th>
+		</tr>
+	</thead>
+	<tbody/>
+</table>
+
+<script>
+var dotmodBlobs;
+var flagDict = { "usn": "", "wp": "", "plan": "", "uk": "", "uk": "", "knm": "" };
+
+async function LoadWeapons() {
+	let result = await MakeRequest("GET", 'https://api.github.com/repos/DotModGroup/ColdWaters-DotMod/git/trees/main?recursive=1');
+	dotmodBlobs = JSON.parse(result)['tree'].filter(function(val){return val['type'] == 'blob';});
+	var objects = dotmodBlobs.filter(function(val){return val['path'].includes('ColdWaters_Data/StreamingAssets/dotmod/weapons/');});
+	for (let i = 0; i < objects.length; i++) {
+	//for (let i = 0; i < 10; i++) {
+		ReadWeaponFile(objects[i]);
+	}
+}
+
+async function ReadWeaponFile(item) {
+	
+	var tableRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
+	let weaponFileResult = await MakeRequest("GET", item['url']);
+	
+	var weaponFile = atob(JSON.parse(weaponFileResult)['content']).split("\n")
+	
+	var weaponObjectReference;
+	try{
+		weaponObjectReference = weaponFile.find((line) => { return line.startsWith("WeaponObjectReference");}).split("=")[1].trim();
+	}
+	catch{
+		return;
+	}
+	
+	var weaponSprite = weaponFile.find((line) => { return line.startsWith("WeaponSprite");}).split("=")[1].trim();
+	
+	let weaponDescriptionResult = await MakeRequest("GET", dotmodBlobs.filter(function(val){return val['path'].includes(weaponObjectReference+'_description');})[0]['url']);
+	var weaponDescriptionFile = atob(JSON.parse(weaponDescriptionResult)['content']).split("\n");
+	
+	var weaponName = weaponDescriptionFile.find((line) => { return line.startsWith("WeaponName");}).split("=")[1].trim();
+	var weaponDescription = weaponDescriptionFile.find((line) => { return line.startsWith("WeaponDescription");}).split("=")[1].trim();
+	
+	var newRow = tableRef.insertRow(tableRef.rows.length);
+	var myHtmlContent = "<tr><td>" + weaponObjectReference + "</td><td>" + weaponName + "</td><td><img src='https://github.com/DotModGroup/ColdWaters-DotMod/blob/main/ColdWaters_Data/StreamingAssets/dotmod/" + weaponSprite + "?raw=true' alt='" + weaponSprite + "'></td><td>" + weaponDescription.replace("\\n", "<br>") + "</td></tr>"
+	newRow.innerHTML = myHtmlContent;
+}
+
+function MakeRequest(method, url) {
+    return new Promise(function (resolve, reject) {
+        let xhr = new XMLHttpRequest();
+        xhr.open(method, url);
+        xhr.onload = function () {
+            if (this.status >= 200 && this.status < 300) {
+                resolve(xhr.response);
+            } else {
+                reject({
+                    status: this.status,
+                    statusText: xhr.statusText
+                });
+            }
+        };
+        xhr.onerror = function () {
+            reject({
+                status: this.status,
+                statusText: xhr.statusText
+            });
+        };
+        xhr.send();
+    });
+}
+</script>
+
 </body>
 </html>
