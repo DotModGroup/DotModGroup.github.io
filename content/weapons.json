@@ -1,1 +1,464 @@
-[]
+[
+  {
+    "ObjectReference": "uk_mk20s",
+    "Name": null,
+    "Sprite": "hud/sprites/uk_mk20s.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_mk8mod4",
+    "Name": null,
+    "Sprite": "hud/sprites/uk_mk8mod4.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_spearfish",
+    "Name": null,
+    "Sprite": "hud/sprites/uk_spearfish.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_stingray",
+    "Name": null,
+    "Sprite": "hud/sprites/plan_yu-7_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_tigerfish",
+    "Name": null,
+    "Sprite": "hud/sprites/uk_tigerfish.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_exocet",
+    "Name": null,
+    "Sprite": "weapons/sprites/plan_c-801_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_seacat",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-66_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "uk_seadart",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-66_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "plan_yu-1",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "plan_yu-5",
+    "Name": null,
+    "Sprite": "weapons/sprites/plan_yu-5_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "plan_yu-7",
+    "Name": null,
+    "Sprite": "hud/sprites/plan_yu-7_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "plan_c-801",
+    "Name": null,
+    "Sprite": "weapons/sprites/plan_c-801_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "plan_cy-1",
+    "Name": null,
+    "Sprite": "weapons/sprites/plan_cy-1_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_set-40",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_set-40_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_set-65",
+    "Name": null,
+    "Sprite": "weapons/sprites/wp_set-65_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_set-65k",
+    "Name": null,
+    "Sprite": "weapons/sprites/wp_set-65_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_set-65m",
+    "Name": null,
+    "Sprite": "weapons/sprites/wp_set-65_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_test-68",
+    "Name": null,
+    "Sprite": "hud\\sprites\\wp_test-68_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_test-71",
+    "Name": null,
+    "Sprite": "hud\\sprites\\wp_test-71_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_at-1",
+    "Name": null,
+    "Sprite": null,
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_at-2",
+    "Name": null,
+    "Sprite": null,
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_umgt-1",
+    "Name": null,
+    "Sprite": null,
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_53-65",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_53-65_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_53-65k",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_53-65_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_65-76",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_65-76_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_saet-60m",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_saet-60m_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_shkval",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_shkval_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_test-71m",
+    "Name": null,
+    "Sprite": "hud\\sprites\\wp_test-71_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_test-71mke",
+    "Name": null,
+    "Sprite": "hud\\sprites\\wp_test-71_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_uset-80",
+    "Name": null,
+    "Sprite": "hud\\sprites\\wp_uset-80_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_uset-80k",
+    "Name": null,
+    "Sprite": "hud\\sprites\\wp_uset-80_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_moss_mg-14",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_moss_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_moss_mg-74",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_moss_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_p-120",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_p-120_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_p-270",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_p-270.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_p-6",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_p-6_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_p-70",
+    "Name": null,
+    "Sprite": "weapons/sprites/wp_ss-n-7_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_p-700",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_p-700_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_kinzhal",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_m-11",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_m-22",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_m-4",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_s-300",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_igla",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_strela-2",
+    "Name": null,
+    "Sprite": "hud/sprites/WIP.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_3m-54",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_3m-54_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_urpk-3",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_urpk-3_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_urk-5",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_urpk-3_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_rpk-2-65",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_rpk-2-65_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_rpk-2",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_rpk-2-53_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_rpk-6",
+    "Name": null,
+    "Sprite": "weapons/sprites/wp_ss-n-16_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_s-10",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_s-10_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_r21",
+    "Name": null,
+    "Sprite": "hud/sprites/wp_r21_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_r27",
+    "Name": null,
+    "Sprite": "hud/sprites/r27_slbm_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "knm_penguin",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_ugm84_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk48_adcap",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_mk48_adcap_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk48",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_mk48_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk16",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_mk16_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk46",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_mk46_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk37",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_mk37_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_nt37c",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_nt37c_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk50",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_mk50_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_mk45",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_mk45_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_moss",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_moss_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_uum-125b",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_uum-125b_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rim-66",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-66_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rim-66c",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-66cm_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rim-66m",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-66cm_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rim-67a",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-67_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rim-7m",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rim-66_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rum-139",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rum-139_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_rur-5",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_rur-5_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_tasm",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_tasm_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_ugm84",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_ugm84_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_tlam",
+    "Name": null,
+    "Sprite": "weapons/sprites/usn_tlam_sprite",
+    "Description": null
+  },
+  {
+    "ObjectReference": "usn_trident_1",
+    "Name": null,
+    "Sprite": "hud/sprites/usn_trident_1_sprite.png",
+    "Description": null
+  },
+  {
+    "ObjectReference": "wp_sonobuoy",
+    "Name": null,
+    "Sprite": null,
+    "Description": null
+  }
+]
