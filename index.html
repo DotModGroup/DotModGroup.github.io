@@ -62,7 +62,7 @@ async function LoadWeapons() {
 			var tableRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
 			for (var i = 0; i < weaponData.length; i++){
 				var newRow = tableRef.insertRow(tableRef.rows.length);
-				var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Sprite"].replace("\\n", "<br>") + "</td></tr>"
+				var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Description"].replace("\\n", "<br>") + "</td></tr>"
 				newRow.innerHTML = myHtmlContent;
 			}
 		});
