@@ -52,17 +52,10 @@
 </table>
 
 <script>
-var dotmodBlobs;
-var flagDict = { "usn": "", "wp": "", "plan": "", "uk": "", "uk": "", "knm": "" };
-
 async function LoadWeapons() {
-	let result = await MakeRequest("GET", 'https://api.github.com/repos/DotModGroup/ColdWaters-DotMod/git/trees/main?recursive=1');
-	dotmodBlobs = JSON.parse(result)['tree'].filter(function(val){return val['type'] == 'blob';});
-	var objects = dotmodBlobs.filter(function(val){return val['path'].includes('ColdWaters_Data/StreamingAssets/dotmod/weapons/');});
-	for (let i = 0; i < objects.length; i++) {
-	//for (let i = 0; i < 10; i++) {
-		ReadWeaponFile(objects[i]);
-	}
+	fetch('content/weapons.json')
+		.then(response => response.text())
+		.then(text => console.log(text))
 }
 
 async function ReadWeaponFile(item) {
