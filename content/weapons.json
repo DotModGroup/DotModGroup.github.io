@@ -1,464 +1,464 @@
 [
   {
-    "ObjectReference": "Passive Homing Torpedo of the Royal Navy, developed in the 1950s and in service until replaced by Mark 24 Tigerfish in the 1980s.",
-    "Name": null,
+    "ObjectReference": "uk_mk20s",
+    "Name": "Mk. 20S",
     "Sprite": "hud/sprites/uk_mk20s.png",
-    "Description": null
+    "Description": "Passive Homing Torpedo of the Royal Navy, developed in the 1950s and in service until replaced by Mark 24 Tigerfish in the 1980s."
   },
   {
-    "ObjectReference": "The Mark VIII was the first burner-cycle torpedo in service. Although the original design dates from the 1920s, those manufactured during and after World War II were to a much-modified design. The Mark 8** was the British torpedo most used during World War II and was supplied to destroyers and MTBs as well as submarines. This torpedo was still in front-line use as late as 1982 during the Falklands War when the submarine HMS Conqueror fired three Mod 4 torpedoes at the Argentine cruiser General Belgrano.",
-    "Name": null,
+    "ObjectReference": "uk_mk8mod4",
+    "Name": "Mk.8 Mod 4",
     "Sprite": "hud/sprites/uk_mk8mod4.png",
-    "Description": null
+    "Description": "The Mark VIII was the first burner-cycle torpedo in service. Although the original design dates from the 1920s, those manufactured during and after World War II were to a much-modified design. The Mark 8** was the British torpedo most used during World War II and was supplied to destroyers and MTBs as well as submarines. This torpedo was still in front-line use as late as 1982 during the Falklands War when the submarine HMS Conqueror fired three Mod 4 torpedoes at the Argentine cruiser General Belgrano."
   },
   {
-    "ObjectReference": "The Spearfish torpedo (formally Naval Staff Target 7525) is the heavy torpedo used by the submarines of the Royal Navy. It can be guided by wire or by autonomous active or passive sonar, and provides both anti-submarine warfare (ASW) and anti-surface ship warfare (ASuW) capability. Spearfish development began in the 1970s, with production starting in 1988, and deployment in 1992. By 2004, they had completely replaced the older Tigerfish torpedo.",
-    "Name": null,
+    "ObjectReference": "uk_spearfish",
+    "Name": "Spearfish",
     "Sprite": "hud/sprites/uk_spearfish.png",
-    "Description": null
+    "Description": "The Spearfish torpedo (formally Naval Staff Target 7525) is the heavy torpedo used by the submarines of the Royal Navy. It can be guided by wire or by autonomous active or passive sonar, and provides both anti-submarine warfare (ASW) and anti-surface ship warfare (ASuW) capability. Spearfish development began in the 1970s, with production starting in 1988, and deployment in 1992. By 2004, they had completely replaced the older Tigerfish torpedo."
   },
   {
-    "ObjectReference": "The Sting Ray is a British acoustic homing lightweight torpedo (LWT) manufactured by GEC-Marconi, who were later bought out by BAE Systems. It entered service in 1983.",
-    "Name": null,
+    "ObjectReference": "uk_stingray",
+    "Name": "Sting Ray",
     "Sprite": "hud/sprites/plan_yu-7_sprite.png",
-    "Description": null
+    "Description": "The Sting Ray is a British acoustic homing lightweight torpedo (LWT) manufactured by GEC-Marconi, who were later bought out by BAE Systems. It entered service in 1983."
   },
   {
-    "ObjectReference": "The Mark 24 Tigerfish was a heavyweight acoustic homing torpedo used by the Royal Navy during the 1980s and 90s. Conceptual development dates to the mid-1950s, and formally started in 1959 with a target introduction date in 1969. The first prototype \"Tigerfish\" examples were delivered in 1967.",
-    "Name": null,
+    "ObjectReference": "uk_tigerfish",
+    "Name": "Tigerfish",
     "Sprite": "hud/sprites/uk_tigerfish.png",
-    "Description": null
+    "Description": "The Mark 24 Tigerfish was a heavyweight acoustic homing torpedo used by the Royal Navy during the 1980s and 90s. Conceptual development dates to the mid-1950s, and formally started in 1959 with a target introduction date in 1969. The first prototype \"Tigerfish\" examples were delivered in 1967."
   },
   {
-    "ObjectReference": "The Exocet is a French-built anti-ship missile whose various versions can be launched from surface vessels, submarines, helicopters and fixed-wing aircraft. The Exocet saw its first wartime launch during the Falklands War.",
-    "Name": null,
+    "ObjectReference": "uk_exocet",
+    "Name": "MM40",
     "Sprite": "weapons/sprites/plan_c-801_sprite",
-    "Description": null
+    "Description": "The Exocet is a French-built anti-ship missile whose various versions can be launched from surface vessels, submarines, helicopters and fixed-wing aircraft. The Exocet saw its first wartime launch during the Falklands War."
   },
   {
-    "ObjectReference": "Seacat was a British short-range surface-to-air missile system intended to replace the ubiquitous Bofors 40 mm gun aboard warships of all sizes. It was the world's first operational shipboard point-defence missile system, and was designed so that the Bofors guns could be replaced with minimum modification to the recipient vessel and (originally) using existing fire-control systems.",
-    "Name": null,
+    "ObjectReference": "uk_seacat",
+    "Name": "GWS.24 Seacat",
     "Sprite": "hud/sprites/usn_rim-66_sprite.png",
-    "Description": null
+    "Description": "Seacat was a British short-range surface-to-air missile system intended to replace the ubiquitous Bofors 40 mm gun aboard warships of all sizes. It was the world's first operational shipboard point-defence missile system, and was designed so that the Bofors guns could be replaced with minimum modification to the recipient vessel and (originally) using existing fire-control systems."
   },
   {
-    "ObjectReference": "Sea Dart was a Royal Navy surface-to-air missile system designed in the 1960s and entering service in 1973. It was fitted to the Type 42 destroyers, Type 82 destroyer and Invincible-class aircraft carrier. Originally developed by Hawker Siddeley, the missile was built by British Aerospace after 1977. It was withdrawn from service in 2012.",
-    "Name": null,
+    "ObjectReference": "uk_seadart",
+    "Name": "GWS.30 Sea Dart",
     "Sprite": "hud/sprites/usn_rim-66_sprite.png",
-    "Description": null
+    "Description": "Sea Dart was a Royal Navy surface-to-air missile system designed in the 1960s and entering service in 1973. It was fitted to the Type 42 destroyers, Type 82 destroyer and Invincible-class aircraft carrier. Originally developed by Hawker Siddeley, the missile was built by British Aerospace after 1977. It was withdrawn from service in 2012."
   },
   {
-    "ObjectReference": "The Yu-1 is a steam-powered dual-purpose torpedo with passive acoustic guidance. The range of the homing system is about 880 yards.",
-    "Name": null,
+    "ObjectReference": "plan_yu-1",
+    "Name": "Yu-1",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "The Yu-1 is a steam-powered dual-purpose torpedo with passive acoustic guidance. The range of the homing system is about 880 yards."
   },
   {
-    "ObjectReference": "This is the first Chinese wire-guided torpedo, which incorporates much technology from the US Mk-46 in the form of Otto-fuel propulsion. Terminal homing is by a passive/active guidance system with an estimated range of 1600 yards",
-    "Name": null,
+    "ObjectReference": "plan_yu-5",
+    "Name": "Yu-5",
     "Sprite": "weapons/sprites/plan_yu-5_sprite",
-    "Description": null
+    "Description": "This is the first Chinese wire-guided torpedo, which incorporates much technology from the US Mk-46 in the form of Otto-fuel propulsion. Terminal homing is by a passive/active guidance system with an estimated range of 1600 yards"
   },
   {
-    "ObjectReference": "Chinese copy of the US Mk-46 airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the CY-1 ASW standoff missile. The guidance system has a range of 1600 yards.",
-    "Name": null,
+    "ObjectReference": "plan_yu-7",
+    "Name": "Yu-7",
     "Sprite": "hud/sprites/plan_yu-7_sprite.png",
-    "Description": null
+    "Description": "Chinese copy of the US Mk-46 airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the CY-1 ASW standoff missile. The guidance system has a range of 1600 yards."
   },
   {
-    "ObjectReference": "YJ-8 anti-ship missile(NATO reporting name: CSS-N-4 Sardine) is very similar to the French Exocet and US Harpoon missiles. From submarines it is launched on using a canister similar to Sub-Harpoon, and features similar performance to its western counterparts. Its warhead power is often insufficient to sink a modern warship in one hit.",
-    "Name": null,
+    "ObjectReference": "plan_c-801",
+    "Name": "YJ-8",
     "Sprite": "weapons/sprites/plan_c-801_sprite",
-    "Description": null
+    "Description": "YJ-8 anti-ship missile(NATO reporting name: CSS-N-4 Sardine) is very similar to the French Exocet and US Harpoon missiles. From submarines it is launched on using a canister similar to Sub-Harpoon, and features similar performance to its western counterparts. Its warhead power is often insufficient to sink a modern warship in one hit."
   },
   {
-    "ObjectReference": "Submarine- and surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Yu-7 lightweight torpedo.",
-    "Name": null,
+    "ObjectReference": "plan_cy-1",
+    "Name": "CY-1",
     "Sprite": "weapons/sprites/plan_cy-1_sprite",
-    "Description": null
+    "Description": "Submarine- and surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Yu-7 lightweight torpedo."
   },
   {
-    "ObjectReference": "Special: ASW, Small caliber",
-    "Name": null,
+    "ObjectReference": "wp_set-40",
+    "Name": "SET-40",
     "Sprite": "hud/sprites/wp_set-40_sprite.png",
-    "Description": null
+    "Description": "Special: ASW, Small caliber"
   },
   {
-    "ObjectReference": "Special: ASW",
-    "Name": null,
+    "ObjectReference": "wp_set-65",
+    "Name": "SET-65",
     "Sprite": "weapons/sprites/wp_set-65_sprite",
-    "Description": null
+    "Description": "Special: ASW"
   },
   {
-    "ObjectReference": "The latest modification of SET-65, 5th generation SET-65K is an electrical dual-purpose torpedo with newer guidance system \"Keramika\" which is capable to lock on both submerged and surface targets and has an increaced sensor range.",
-    "Name": null,
+    "ObjectReference": "wp_set-65k",
+    "Name": "SET-65K",
     "Sprite": "weapons/sprites/wp_set-65_sprite",
-    "Description": null
+    "Description": "The latest modification of SET-65, 5th generation SET-65K is an electrical dual-purpose torpedo with newer guidance system \"Keramika\" which is capable to lock on both submerged and surface targets and has an increaced sensor range."
   },
   {
-    "ObjectReference": "Special: ASW",
-    "Name": null,
+    "ObjectReference": "wp_set-65m",
+    "Name": "SET-65 III",
     "Sprite": "weapons/sprites/wp_set-65_sprite",
-    "Description": null
+    "Description": "Special: ASW"
   },
   {
-    "ObjectReference": "Special: ASW, Limited wire guidance",
-    "Name": null,
+    "ObjectReference": "wp_test-68",
+    "Name": "TEST-68",
     "Sprite": "hud\\sprites\\wp_test-68_sprite.png",
-    "Description": null
+    "Description": "Special: ASW, Limited wire guidance"
   },
   {
-    "ObjectReference": "Special: ASW, Limited wire guidance",
-    "Name": null,
+    "ObjectReference": "wp_test-71",
+    "Name": "TEST-71",
     "Sprite": "hud\\sprites\\wp_test-71_sprite.png",
-    "Description": null
+    "Description": "Special: ASW, Limited wire guidance"
   },
   {
-    "ObjectReference": "Special: ASW",
-    "Name": null,
+    "ObjectReference": "wp_at-1",
+    "Name": "AT-1",
     "Sprite": null,
-    "Description": null
+    "Description": "Special: ASW"
   },
   {
-    "ObjectReference": "Special: ASW",
-    "Name": null,
+    "ObjectReference": "wp_at-2",
+    "Name": "AT-2",
     "Sprite": null,
-    "Description": null
+    "Description": "Special: ASW"
   },
   {
-    "ObjectReference": "Special: ASW",
-    "Name": null,
+    "ObjectReference": "wp_umgt-1",
+    "Name": "UGMT-1",
     "Sprite": null,
-    "Description": null
+    "Description": "Special: ASW"
   },
   {
-    "ObjectReference": "Special: Wake-homing",
-    "Name": null,
+    "ObjectReference": "wp_53-65",
+    "Name": "53-65",
     "Sprite": "hud/sprites/wp_53-65_sprite.png",
-    "Description": null
+    "Description": "Special: Wake-homing"
   },
   {
-    "ObjectReference": "Special: Wake-homing",
-    "Name": null,
+    "ObjectReference": "wp_53-65k",
+    "Name": "53-65K",
     "Sprite": "hud/sprites/wp_53-65_sprite.png",
-    "Description": null
+    "Description": "Special: Wake-homing"
   },
   {
-    "ObjectReference": "Special: Wake-homing, Large caliber",
-    "Name": null,
+    "ObjectReference": "wp_65-76",
+    "Name": "65-76",
     "Sprite": "hud/sprites/wp_65-76_sprite.png",
-    "Description": null
+    "Description": "Special: Wake-homing, Large caliber"
   },
   {
-    "ObjectReference": "Special: Anti-ship only.",
-    "Name": null,
+    "ObjectReference": "wp_saet-60m",
+    "Name": "SAET-60M",
     "Sprite": "hud/sprites/wp_saet-60m_sprite.png",
-    "Description": null
+    "Description": "Special: Anti-ship only."
   },
   {
-    "ObjectReference": "Special: Piercing.",
-    "Name": null,
+    "ObjectReference": "wp_shkval",
+    "Name": "\"Shkval\"",
     "Sprite": "hud/sprites/wp_shkval_sprite.png",
-    "Description": null
+    "Description": "Special: Piercing."
   },
   {
-    "ObjectReference": "This 4th generation electrical torpedo is an improved version of the TEST-71 wire-guided torpedo. The speed and range are the same but the previous restrictions on wire guidance has been removed.",
-    "Name": null,
+    "ObjectReference": "wp_test-71m",
+    "Name": "TEST-71M",
     "Sprite": "hud\\sprites\\wp_test-71_sprite.png",
-    "Description": null
+    "Description": "This 4th generation electrical torpedo is an improved version of the TEST-71 wire-guided torpedo. The speed and range are the same but the previous restrictions on wire guidance has been removed."
   },
   {
-    "ObjectReference": "This 5th generation electrical torpedo is a further improvement of the TEST-71M wire-guided torpedo. The speed and range remain the same but the new \"Keramika\" guidance system with increaced sensor range has been installed.",
-    "Name": null,
+    "ObjectReference": "wp_test-71mke",
+    "Name": "TEST-71MK",
     "Sprite": "hud\\sprites\\wp_test-71_sprite.png",
-    "Description": null
+    "Description": "This 5th generation electrical torpedo is a further improvement of the TEST-71M wire-guided torpedo. The speed and range remain the same but the new \"Keramika\" guidance system with increaced sensor range has been installed."
   },
   {
-    "ObjectReference": "Special: Optional wake-homing",
-    "Name": null,
+    "ObjectReference": "wp_uset-80",
+    "Name": "USET-80",
     "Sprite": "hud\\sprites\\wp_uset-80_sprite.png",
-    "Description": null
+    "Description": "Special: Optional wake-homing"
   },
   {
-    "ObjectReference": "This Soviet dual-purpose torpedo is an upgrade over the USET-80. It has an improved sensor range, but lacks wake-homing.",
-    "Name": null,
+    "ObjectReference": "wp_uset-80k",
+    "Name": "USET-80K",
     "Sprite": "hud\\sprites\\wp_uset-80_sprite.png",
-    "Description": null
+    "Description": "This Soviet dual-purpose torpedo is an upgrade over the USET-80. It has an improved sensor range, but lacks wake-homing."
   },
   {
-    "ObjectReference": "Special: Small caliber",
-    "Name": null,
+    "ObjectReference": "wp_moss_mg-14",
+    "Name": "\"Anabar\"",
     "Sprite": "weapons/sprites/usn_moss_sprite",
-    "Description": null
+    "Description": "Special: Small caliber"
   },
   {
-    "ObjectReference": "The MG-74 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It can be set to various motion patterns to get tactical advantage.",
-    "Name": null,
+    "ObjectReference": "wp_moss_mg-74",
+    "Name": "\"Korund\"",
     "Sprite": "weapons/sprites/usn_moss_sprite",
-    "Description": null
+    "Description": "The MG-74 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It can be set to various motion patterns to get tactical advantage."
   },
   {
-    "ObjectReference": "The P-120 \"Malakhit\" (NATO reporting name: SS-N-9 Siren) is a Soviet medium range anti-ship missile used by corvettes and submarines. Introduced in 1972, it remains in service but has been superseded by the SS-N-22 Sunburn.",
-    "Name": null,
+    "ObjectReference": "wp_p-120",
+    "Name": "\"Malakhit\"",
     "Sprite": "hud/sprites/wp_p-120_sprite.png",
-    "Description": null
+    "Description": "The P-120 \"Malakhit\" (NATO reporting name: SS-N-9 Siren) is a Soviet medium range anti-ship missile used by corvettes and submarines. Introduced in 1972, it remains in service but has been superseded by the SS-N-22 Sunburn."
   },
   {
-    "ObjectReference": "The P-270 \"Moskit\" (NATO reporting name: SSS-N-22 Sunburn) is a Soviet supersonic ramjet powered anti-ship cruise missile.",
-    "Name": null,
+    "ObjectReference": "wp_p-270",
+    "Name": "\"Moskit\"",
     "Sprite": "hud/sprites/wp_p-270.png",
-    "Description": null
+    "Description": "The P-270 \"Moskit\" (NATO reporting name: SSS-N-22 Sunburn) is a Soviet supersonic ramjet powered anti-ship cruise missile."
   },
   {
-    "ObjectReference": "Special: Universal",
-    "Name": null,
+    "ObjectReference": "wp_p-6",
+    "Name": "P-6",
     "Sprite": "hud/sprites/wp_p-6_sprite.png",
-    "Description": null
+    "Description": "Special: Universal"
   },
   {
-    "ObjectReference": "P-70 \"Amethyst\" (NATO reporting name: SS-N-7 Starbright) is a high-subsonic cruise missile designed for the Papa and Charlie 1-class submarines. Earlier submarines of the Echo and Juliet classes used the SS-N-3 Shaddock supersonic cruise missile, whose mid-course guidance required the launching submarine to stay surfaced for long periods. The SS-N-7 instead uses submerged launch, and the relatively short range of the missile means no midcourse guidance is necessary and the submarine can use its own sensors for targeting.",
-    "Name": null,
+    "ObjectReference": "wp_p-70",
+    "Name": "\"Amethyst\"",
     "Sprite": "weapons/sprites/wp_ss-n-7_sprite",
-    "Description": null
+    "Description": "P-70 \"Amethyst\" (NATO reporting name: SS-N-7 Starbright) is a high-subsonic cruise missile designed for the Papa and Charlie 1-class submarines. Earlier submarines of the Echo and Juliet classes used the SS-N-3 Shaddock supersonic cruise missile, whose mid-course guidance required the launching submarine to stay surfaced for long periods. The SS-N-7 instead uses submerged launch, and the relatively short range of the missile means no midcourse guidance is necessary and the submarine can use its own sensors for targeting."
   },
   {
-    "ObjectReference": "Special: Universal",
-    "Name": null,
+    "ObjectReference": "wp_p-700",
+    "Name": "\"Granit\"",
     "Sprite": "hud/sprites/wp_p-700_sprite.png",
-    "Description": null
+    "Description": "Special: Universal"
   },
   {
-    "ObjectReference": "\"Kinzhal\" SAM (NATO reporting name: SA-N-9 Gauntlet) is a Soviet naval surface-to-air missile system found on Udaloy-class vessels.",
-    "Name": null,
+    "ObjectReference": "wp_kinzhal",
+    "Name": "\"Kinzhal\" SAM",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "\"Kinzhal\" SAM (NATO reporting name: SA-N-9 Gauntlet) is a Soviet naval surface-to-air missile system found on Udaloy-class vessels."
   },
   {
-    "ObjectReference": "Special: Universal",
-    "Name": null,
+    "ObjectReference": "wp_m-11",
+    "Name": "Shtorm SAM",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "Special: Universal"
   },
   {
-    "ObjectReference": "The Uragan(NATO reporting name: SA-N-7 Gadfly) is a Soviet naval surface-to-air missile system.",
-    "Name": null,
+    "ObjectReference": "wp_m-22",
+    "Name": "Uragan SAM",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "The Uragan(NATO reporting name: SA-N-7 Gadfly) is a Soviet naval surface-to-air missile system."
   },
   {
-    "ObjectReference": "Special: Universal",
-    "Name": null,
+    "ObjectReference": "wp_m-4",
+    "Name": "Osa-MA SAM",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "Special: Universal"
   },
   {
-    "ObjectReference": "Special: Universal",
-    "Name": null,
+    "ObjectReference": "wp_s-300",
+    "Name": "S-300F",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "Special: Universal"
   },
   {
-    "ObjectReference": "The 9K38 \"Igla\" (NATO reporting name: SA-18 Grouse) is a Soviet man-portable infrared homing surface-to-air missile system.",
-    "Name": null,
+    "ObjectReference": "wp_igla",
+    "Name": "\"Igla\"",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "The 9K38 \"Igla\" (NATO reporting name: SA-18 Grouse) is a Soviet man-portable infrared homing surface-to-air missile system."
   },
   {
-    "ObjectReference": "The 9K32 Strela-2 (NATO reporting name: SA-7 Grail) is a passive-infared homing MANPADS system. It can often be found in a submarine's conning tower for close-range anti-aircraft defense.",
-    "Name": null,
+    "ObjectReference": "wp_strela-2",
+    "Name": "\"Strela-2\"",
     "Sprite": "hud/sprites/WIP.png",
-    "Description": null
+    "Description": "The 9K32 Strela-2 (NATO reporting name: SA-7 Grail) is a passive-infared homing MANPADS system. It can often be found in a submarine's conning tower for close-range anti-aircraft defense."
   },
   {
-    "ObjectReference": "Special: Came from future",
-    "Name": null,
+    "ObjectReference": "wp_3m-54",
+    "Name": "\"Kalibr\"",
     "Sprite": "hud/sprites/wp_3m-54_sprite.png",
-    "Description": null
+    "Description": "Special: Came from future"
   },
   {
-    "ObjectReference": "URPK-3 \"Metel'\" (NATO classification: SS-N-14 Silex) is a subsonic ASW missile equipped on most Soviet large anti-submarine ships as well as the frigates of the Krivak class. It can be launched to the first convergence zone, and drops an AT-2 homing torpedo. Because it has a larger range than the effective range of the surface ship sonar, it can use targeting data transmitted from any friendly sea or air unit via datalink.",
-    "Name": null,
+    "ObjectReference": "wp_urpk-3",
+    "Name": "\"Metel'\"",
     "Sprite": "hud/sprites/wp_urpk-3_sprite.png",
-    "Description": null
+    "Description": "URPK-3 \"Metel'\" (NATO classification: SS-N-14 Silex) is a subsonic ASW missile equipped on most Soviet large anti-submarine ships as well as the frigates of the Krivak class. It can be launched to the first convergence zone, and drops an AT-2 homing torpedo. Because it has a larger range than the effective range of the surface ship sonar, it can use targeting data transmitted from any friendly sea or air unit via datalink."
   },
   {
-    "ObjectReference": "Special: Dual-purpose",
-    "Name": null,
+    "ObjectReference": "wp_urk-5",
+    "Name": "\"Rastrub-B\"",
     "Sprite": "hud/sprites/wp_urpk-3_sprite.png",
-    "Description": null
+    "Description": "Special: Dual-purpose"
   },
   {
-    "ObjectReference": "Special: Large caliber",
-    "Name": null,
+    "ObjectReference": "wp_rpk-2-65",
+    "Name": "\"Vyuga-65\"",
     "Sprite": "hud/sprites/wp_rpk-2-65_sprite.png",
-    "Description": null
+    "Description": "Special: Large caliber"
   },
   {
-    "ObjectReference": "(NATO reporting name: SS-N-15)Submarine-launched stand-off ASW missile. It is similar to the SS-N-14 but drops the AT-1 homing torpedo.",
-    "Name": null,
+    "ObjectReference": "wp_rpk-2",
+    "Name": "\"Vjuga\"",
     "Sprite": "hud/sprites/wp_rpk-2-53_sprite.png",
-    "Description": null
+    "Description": "(NATO reporting name: SS-N-15)Submarine-launched stand-off ASW missile. It is similar to the SS-N-14 but drops the AT-1 homing torpedo."
   },
   {
-    "ObjectReference": "RPK-6 \"Vodopad\"(NATO classification: SS-N-16 Stallion) is a underwater-launched stand-off ASW missile. It is similar to the SS-N-15 but drops the UGMT-1 homing torpedo.",
-    "Name": null,
+    "ObjectReference": "wp_rpk-6",
+    "Name": "\"Vodopad\"",
     "Sprite": "weapons/sprites/wp_ss-n-16_sprite",
-    "Description": null
+    "Description": "RPK-6 \"Vodopad\"(NATO classification: SS-N-16 Stallion) is a underwater-launched stand-off ASW missile. It is similar to the SS-N-15 but drops the UGMT-1 homing torpedo."
   },
   {
-    "ObjectReference": "The S-10 \"Granat\" (NATO reporting name: SS-N-21 Sampson) is a turbojet-powered, submarine launched land attack missile used by the Soviet navy. It resembles Tomahawk Land Attack Missile in various aspects, such as profile and usage.",
-    "Name": null,
+    "ObjectReference": "wp_s-10",
+    "Name": "\"Granat\"",
     "Sprite": "hud/sprites/wp_s-10_sprite.png",
-    "Description": null
+    "Description": "The S-10 \"Granat\" (NATO reporting name: SS-N-21 Sampson) is a turbojet-powered, submarine launched land attack missile used by the Soviet navy. It resembles Tomahawk Land Attack Missile in various aspects, such as profile and usage."
   },
   {
-    "ObjectReference": "The R-27 (NATO: SS-N-5 Sark/Serb), was submarine-launched ballistic missile in service with the Soviet Union between 1963 and 1989. It was the first Soviet nuclear missile that could be launched from a submerged submarine, and also had twice the range of earlier missiles. It replaced the R-11FM and R-13 (SS-N-4) on many Golf and Hotel-class submarines, and was in turn superseded by the R-27 (SS-N-6 'Serb') missile carried by Yankee-class submarines.",
-    "Name": null,
+    "ObjectReference": "wp_r21",
+    "Name": "R-21",
     "Sprite": "hud/sprites/wp_r21_sprite.png",
-    "Description": null
+    "Description": "The R-27 (NATO: SS-N-5 Sark/Serb), was submarine-launched ballistic missile in service with the Soviet Union between 1963 and 1989. It was the first Soviet nuclear missile that could be launched from a submerged submarine, and also had twice the range of earlier missiles. It replaced the R-11FM and R-13 (SS-N-4) on many Golf and Hotel-class submarines, and was in turn superseded by the R-27 (SS-N-6 'Serb') missile carried by Yankee-class submarines."
   },
   {
-    "ObjectReference": "The R-27 (NATO: SS-N-6 Serb), was one of the first Soviet SLBM's capable of being launched while completely submerged. The first and only installations where on the Yankee I-class SSBN starting in 1968, and it was finally withdrawn by 1988, with the SALT treaties.",
-    "Name": null,
+    "ObjectReference": "wp_r27",
+    "Name": "R27",
     "Sprite": "hud/sprites/r27_slbm_sprite.png",
-    "Description": null
+    "Description": "The R-27 (NATO: SS-N-6 Serb), was one of the first Soviet SLBM's capable of being launched while completely submerged. The first and only installations where on the Yankee I-class SSBN starting in 1968, and it was finally withdrawn by 1988, with the SALT treaties."
   },
   {
-    "ObjectReference": "The Penguin anti-ship missile, designated AGM-119 by the U.S. military, is a Norwegian passive IR seeker-based short-to-medium range anti-ship guided missile, designed for naval use.",
-    "Name": null,
+    "ObjectReference": "knm_penguin",
+    "Name": "Penguin",
     "Sprite": "weapons/sprites/usn_ugm84_sprite",
-    "Description": null
+    "Description": "The Penguin anti-ship missile, designated AGM-119 by the U.S. military, is a Norwegian passive IR seeker-based short-to-medium range anti-ship guided missile, designed for naval use."
   },
   {
-    "ObjectReference": "The Mark 48 ADCAP is an improvement of the Mk48 boasting increased speed and better electronics, allowing it to effectively engage faster and deeper diving enemy submarines, such as the Alfa.",
-    "Name": null,
+    "ObjectReference": "usn_mk48_adcap",
+    "Name": "ADCAP",
     "Sprite": "hud/sprites/usn_mk48_adcap_sprite.png",
-    "Description": null
+    "Description": "The Mark 48 ADCAP is an improvement of the Mk48 boasting increased speed and better electronics, allowing it to effectively engage faster and deeper diving enemy submarines, such as the Alfa."
   },
   {
-    "ObjectReference": "The Mk48 is an advanced dual-purpose torpedo in service with the US Navy since 1972 where it has replaced the Mk14 and Mk37 torpedoes. It combines great speed and an advanced passive/active homing system along with an impressive range of 3000 yards.",
-    "Name": null,
+    "ObjectReference": "usn_mk48",
+    "Name": "MK48",
     "Sprite": "weapons/sprites/usn_mk48_sprite",
-    "Description": null
+    "Description": "The Mk48 is an advanced dual-purpose torpedo in service with the US Navy since 1972 where it has replaced the Mk14 and Mk37 torpedoes. It combines great speed and an advanced passive/active homing system along with an impressive range of 3000 yards."
   },
   {
-    "ObjectReference": "These straight-running WW2-vintage torpedoes were in service as anti-ship weapons until 1972, when they were replaced (along with the Mk37 ASW torpedo) by the dual-purpose Mk48. Guidance is limited to a gyro angle and hit probability is low at anything over point-blank range.",
-    "Name": null,
+    "ObjectReference": "usn_mk16",
+    "Name": "MK16",
     "Sprite": "weapons/sprites/usn_mk16_sprite",
-    "Description": null
+    "Description": "These straight-running WW2-vintage torpedoes were in service as anti-ship weapons until 1972, when they were replaced (along with the Mk37 ASW torpedo) by the dual-purpose Mk48. Guidance is limited to a gyro angle and hit probability is low at anything over point-blank range."
   },
   {
-    "ObjectReference": "The Mark 46 is the US Navy's standard airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the RUR-5 ASROC rocket assisted torpedo. The guidance system has a range of 1600 yards.",
-    "Name": null,
+    "ObjectReference": "usn_mk46",
+    "Name": "MK46",
     "Sprite": "hud/sprites/usn_mk46_sprite.png",
-    "Description": null
+    "Description": "The Mark 46 is the US Navy's standard airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the RUR-5 ASROC rocket assisted torpedo. The guidance system has a range of 1600 yards."
   },
   {
-    "ObjectReference": "The Mk37 was the standard US submarine launched ASW torpedo until the Mk48 replaced it. These weapons are slow enough that most SSN's can outrun them. Thus, extraordinary care must be taken when setting up an attack with these weapons. This slow speed makes them equally ineffective against surface ships, and poor PK against anything other than slow conventional submarines.",
-    "Name": null,
+    "ObjectReference": "usn_mk37",
+    "Name": "MK37",
     "Sprite": "weapons/sprites/usn_mk37_sprite",
-    "Description": null
+    "Description": "The Mk37 was the standard US submarine launched ASW torpedo until the Mk48 replaced it. These weapons are slow enough that most SSN's can outrun them. Thus, extraordinary care must be taken when setting up an attack with these weapons. This slow speed makes them equally ineffective against surface ships, and poor PK against anything other than slow conventional submarines."
   },
   {
-    "ObjectReference": "The NT37C is a significantly-upgraded Otto-fueled version of the Mark 37 that was primarily used for export. Canada, Italy, and Isreal, among others, all used this torpedo on thier subs as a primary dual-purpose weapon.",
-    "Name": null,
+    "ObjectReference": "usn_nt37c",
+    "Name": "NT37C",
     "Sprite": "hud/sprites/usn_nt37c_sprite.png",
-    "Description": null
+    "Description": "The NT37C is a significantly-upgraded Otto-fueled version of the Mark 37 that was primarily used for export. Canada, Italy, and Isreal, among others, all used this torpedo on thier subs as a primary dual-purpose weapon."
   },
   {
-    "ObjectReference": "The Mark 50 torpedo was a U.S. Navy advanced lightweight torpedo for use against fast, deep-diving submarines intended to replace the Mk 46 as the fleet's lightweight torpedo.",
-    "Name": null,
+    "ObjectReference": "usn_mk50",
+    "Name": "Mk 50",
     "Sprite": "hud/sprites/usn_mk50_sprite.png",
-    "Description": null
+    "Description": "The Mark 50 torpedo was a U.S. Navy advanced lightweight torpedo for use against fast, deep-diving submarines intended to replace the Mk 46 as the fleet's lightweight torpedo."
   },
   {
-    "ObjectReference": "The Mk45 was the only nuclear torpedo in service with the USN, intended for use against high-speed, deep-diving, enemy submarines. Westinghouse also marketed a conventional version as the 'Freedom Torpedo'. The Mod 1 is a conjectural weapon assuming nuclear torpedoes would be 'field modified' in a conventional war.",
-    "Name": null,
+    "ObjectReference": "usn_mk45",
+    "Name": "MK45",
     "Sprite": "weapons/sprites/usn_mk45_sprite",
-    "Description": null
+    "Description": "The Mk45 was the only nuclear torpedo in service with the USN, intended for use against high-speed, deep-diving, enemy submarines. Westinghouse also marketed a conventional version as the 'Freedom Torpedo'. The Mod 1 is a conjectural weapon assuming nuclear torpedoes would be 'field modified' in a conventional war."
   },
   {
-    "ObjectReference": "The MK70 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth, which means a submarine can launch it and escape on the opposite side of the layer.",
-    "Name": null,
+    "ObjectReference": "usn_moss",
+    "Name": "MOSS",
     "Sprite": "weapons/sprites/usn_moss_sprite",
-    "Description": null
+    "Description": "The MK70 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth, which means a submarine can launch it and escape on the opposite side of the layer."
   },
   {
-    "ObjectReference": "A conventionally armed variant of the UUM-125A Nuclear Tipped ASW Standoff Weapon.",
-    "Name": null,
+    "ObjectReference": "usn_uum-125b",
+    "Name": "UUM-125B",
     "Sprite": "hud/sprites/usn_uum-125b_sprite.png",
-    "Description": null
+    "Description": "A conventionally armed variant of the UUM-125A Nuclear Tipped ASW Standoff Weapon."
   },
   {
-    "ObjectReference": "Special: Surface-to-Air & Anti-Ship Missile",
-    "Name": null,
+    "ObjectReference": "usn_rim-66",
+    "Name": "RIM-66A",
     "Sprite": "hud/sprites/usn_rim-66_sprite.png",
-    "Description": null
+    "Description": "Special: Surface-to-Air & Anti-Ship Missile"
   },
   {
-    "ObjectReference": "Special: Surface-to-Air & Anti-Ship Missile",
-    "Name": null,
+    "ObjectReference": "usn_rim-66c",
+    "Name": "RIM-66C",
     "Sprite": "hud/sprites/usn_rim-66cm_sprite.png",
-    "Description": null
+    "Description": "Special: Surface-to-Air & Anti-Ship Missile"
   },
   {
-    "ObjectReference": "Special: Surface-to-Air & Anti-Ship Missile",
-    "Name": null,
+    "ObjectReference": "usn_rim-66m",
+    "Name": "RIM-66M-5",
     "Sprite": "hud/sprites/usn_rim-66cm_sprite.png",
-    "Description": null
+    "Description": "Special: Surface-to-Air & Anti-Ship Missile"
   },
   {
-    "ObjectReference": "Special: Surface-to-Air & Anti-Ship Missile",
-    "Name": null,
+    "ObjectReference": "usn_rim-67a",
+    "Name": "RIM-67A",
     "Sprite": "hud/sprites/usn_rim-67_sprite.png",
-    "Description": null
+    "Description": "Special: Surface-to-Air & Anti-Ship Missile"
   },
   {
-    "ObjectReference": "Special: Universal",
-    "Name": null,
+    "ObjectReference": "usn_rim-7m",
+    "Name": "RIM-7 Sea Sparrow",
     "Sprite": "hud/sprites/usn_rim-66_sprite.png",
-    "Description": null
+    "Description": "Special: Universal"
   },
   {
-    "ObjectReference": "Surface ship-vertical launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 lightweight torpedo. The VL-ASROC as increased range over the earlier RUR-5 ASROC",
-    "Name": null,
+    "ObjectReference": "usn_rum-139",
+    "Name": "RUM-139",
     "Sprite": "hud/sprites/usn_rum-139_sprite.png",
-    "Description": null
+    "Description": "Surface ship-vertical launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 lightweight torpedo. The VL-ASROC as increased range over the earlier RUR-5 ASROC"
   },
   {
-    "ObjectReference": "Surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 lightweight torpedo.",
-    "Name": null,
+    "ObjectReference": "usn_rur-5",
+    "Name": "RUR-5",
     "Sprite": "hud/sprites/usn_rur-5_sprite.png",
-    "Description": null
+    "Description": "Surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 lightweight torpedo."
   },
   {
-    "ObjectReference": "This is the anti-ship version of the UGM-109 Tomahawk missile. Compared to the Harpoon, it is faster and packs a significantly larger punch. However being larger makes it a bigger target for CIWS.",
-    "Name": null,
+    "ObjectReference": "usn_tasm",
+    "Name": "TASM",
     "Sprite": "weapons/sprites/usn_tasm_sprite",
-    "Description": null
+    "Description": "This is the anti-ship version of the UGM-109 Tomahawk missile. Compared to the Harpoon, it is faster and packs a significantly larger punch. However being larger makes it a bigger target for CIWS."
   },
   {
-    "ObjectReference": "The Sub-Harpoon has equipped US submarines and their allies since the early 70's. Although a small weapon, with a small warhead and comparatively slow it is very effective against small enemies lacking anti-missile defences. Against better armed targets they probably best launched in salvos to guarantee a hit.",
-    "Name": null,
+    "ObjectReference": "usn_ugm84",
+    "Name": "UGM-84",
     "Sprite": "weapons/sprites/usn_ugm84_sprite",
-    "Description": null
+    "Description": "The Sub-Harpoon has equipped US submarines and their allies since the early 70's. Although a small weapon, with a small warhead and comparatively slow it is very effective against small enemies lacking anti-missile defences. Against better armed targets they probably best launched in salvos to guarantee a hit."
   },
   {
-    "ObjectReference": "Land attack version of the UGM-109 Tomahawk missile. It carries either a conventional high-explosive warhead or cluster munitions. Advanced contour matching and terrain-following radar allows its destructive power to be delivered with pin-point accuracy.",
-    "Name": null,
+    "ObjectReference": "usn_tlam",
+    "Name": "TLAM",
     "Sprite": "weapons/sprites/usn_tlam_sprite",
-    "Description": null
+    "Description": "Land attack version of the UGM-109 Tomahawk missile. It carries either a conventional high-explosive warhead or cluster munitions. Advanced contour matching and terrain-following radar allows its destructive power to be delivered with pin-point accuracy."
   },
   {
-    "ObjectReference": "The UGM-96 Trident I is a U.S. Navy submarine-launched ballistic missile (SLBM) that first entered service in 1979. It was a major development over the proceeding Poseidan SLBM, as it allowed ballistic missile submarines to launch nuclear strikes from the central Atlantic Ocean. This in turn kept them safe from Soviet ASW forces. The missile was then retrofitted into several of the older SSBN classes and Ohio-class submarines. It remained in service until 2005, when it was replaced by the UGM-133 Trident II.",
-    "Name": null,
+    "ObjectReference": "usn_trident_1",
+    "Name": "C4 Trident I",
     "Sprite": "hud/sprites/usn_trident_1_sprite.png",
-    "Description": null
+    "Description": "The UGM-96 Trident I is a U.S. Navy submarine-launched ballistic missile (SLBM) that first entered service in 1979. It was a major development over the proceeding Poseidan SLBM, as it allowed ballistic missile submarines to launch nuclear strikes from the central Atlantic Ocean. This in turn kept them safe from Soviet ASW forces. The missile was then retrofitted into several of the older SSBN classes and Ohio-class submarines. It remained in service until 2005, when it was replaced by the UGM-133 Trident II."
   },
   {
-    "ObjectReference": "Soviet aerial dropped sonobuoys equipped with either passive or active sonar.",
-    "Name": null,
+    "ObjectReference": "wp_sonobuoy",
+    "Name": "Sonobuoy",
     "Sprite": null,
-    "Description": null
+    "Description": "Soviet aerial dropped sonobuoys equipped with either passive or active sonar."
   }
 ]
