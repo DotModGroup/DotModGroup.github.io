@@ -57,7 +57,7 @@ async function LoadWeapons() {
 	fetch('content/weapons.json')
 		.then(response => response.text())
 		.then(text => JSON.parse(text))
-		.then(weaponData =>
+		.then(weaponData => {
 			console.log(weaponData);
 			var tableRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
 			for (var i = 0; i < weaponData.length; i++){
@@ -65,7 +65,7 @@ async function LoadWeapons() {
 				var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponSprite + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Sprite"].replace("\\n", "<br>") + "</td></tr>"
 				newRow.innerHTML = myHtmlContent;
 			}
-		)
+		});
 }
 </script>
 
