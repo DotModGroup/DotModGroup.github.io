@@ -53,61 +53,17 @@
 
 <script>
 async function LoadWeapons() {
+	var weaponData;
 	fetch('content/weapons.json')
 		.then(response => response.text())
-		.then(text => console.log(text))
-}
-
-async function ReadWeaponFile(item) {
-	
+		.then(text => weaponData = JSON.parse(text))
+	console.log(weaponData);
 	var tableRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
-	let weaponFileResult = await MakeRequest("GET", item['url']);
-	
-	var weaponFile = atob(JSON.parse(weaponFileResult)['content']).split("\n")
-	
-	var weaponObjectReference;
-	try{
-		weaponObjectReference = weaponFile.find((line) => { return line.startsWith("WeaponObjectReference");}).split("=")[1].trim();
+	for (var i = 0; i < weaponData.length; i++){
+		var newRow = tableRef.insertRow(tableRef.rows.length);
+		var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponSprite + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Sprite"].replace("\\n", "<br>") + "</td></tr>"
+		newRow.innerHTML = myHtmlContent;
 	}
-	catch{
-		return;
-	}
-	
-	var weaponSprite = weaponFile.find((line) => { return line.startsWith("WeaponSprite");}).split("=")[1].trim();
-	
-	let weaponDescriptionResult = await MakeRequest("GET", dotmodBlobs.filter(function(val){return val['path'].includes(weaponObjectReference+'_description');})[0]['url']);
-	var weaponDescriptionFile = atob(JSON.parse(weaponDescriptionResult)['content']).split("\n");
-	
-	var weaponName = weaponDescriptionFile.find((line) => { return line.startsWith("WeaponName");}).split("=")[1].trim();
-	var weaponDescription = weaponDescriptionFile.find((line) => { return line.startsWith("WeaponDescription");}).split("=")[1].trim();
-	
-	var newRow = tableRef.insertRow(tableRef.rows.length);
-	var myHtmlContent = "<tr><td>" + weaponObjectReference + "</td><td>" + weaponName + "</td><td><img src='https://github.com/DotModGroup/ColdWaters-DotMod/blob/main/ColdWaters_Data/StreamingAssets/dotmod/" + weaponSprite + "?raw=true' alt='" + weaponSprite + "'></td><td>" + weaponDescription.replace("\\n", "<br>") + "</td></tr>"
-	newRow.innerHTML = myHtmlContent;
-}
-
-function MakeRequest(method, url) {
-    return new Promise(function (resolve, reject) {
-        let xhr = new XMLHttpRequest();
-        xhr.open(method, url);
-        xhr.onload = function () {
-            if (this.status >= 200 && this.status < 300) {
-                resolve(xhr.response);
-            } else {
-                reject({
-                    status: this.status,
-                    statusText: xhr.statusText
-                });
-            }
-        };
-        xhr.onerror = function () {
-            reject({
-                status: this.status,
-                statusText: xhr.statusText
-            });
-        };
-        xhr.send();
-    });
 }
 </script>
 
