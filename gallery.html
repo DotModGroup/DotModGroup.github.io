@@ -271,8 +271,36 @@
 	<!-- This script randomises the elements in the gallery -->
 	<script>
 		function RandomiseGallery(){
+			CallForImages();
 			RandomiseChildren(document.getElementById("3"));
+			
 		}
+		
+		//Makes an asynch request, loading the getimages.php file
+        function CallForImages() {
+
+            //Create the request object
+            var httpReq = (window.XMLHttpRequest)?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP");
+
+            //When it loads,
+            httpReq.onload = function() {
+
+                //Convert the result back into JSON
+                var result = JSON.parse(httpReq.responseText);
+
+                //Show the images
+                console.log(result);
+            }
+
+            //Request the page
+            try {
+                httpReq.open("GET", "getimages.php", true);
+                httpReq.send(null);
+            } catch(e) {
+                console.log(e);
+            }
+
+        }
 		
 		function RandomiseChildren(nodeX){
 			// nodeX can be any html element
