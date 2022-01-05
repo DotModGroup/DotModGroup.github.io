@@ -22,7 +22,7 @@
 	<![endif]-->
 </head>
 
-<body onload="RandomiseGallery()">
+<body>
     <!-- Fixed navbar -->
     <div class="navbar navbar-inverse">
         <div class="container">
@@ -217,6 +217,45 @@
                                 </article>
 								
                             </div>
+							<!-- This script randomises the elements in the gallery -->
+							<script>
+CallForImages();
+RandomiseChildren(document.getElementById("3"));
+
+//Makes an asynch request, loading the getimages.php file
+function CallForImages() {
+	fetch('content/galleryimages.json')
+	.then(response => response.text())
+	.then(text => JSON.parse(text))
+	.then(imageData => {
+		console.log(imageData);
+		var tableRef = document.getElementById('3');
+		tableRef.innerHTML = "";
+		for (var i = 0; i < imageData.length; i++){
+			//var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Description"].replace("\\n", "<br>") + "</td></tr>"
+			var myHtmlContent = '<article class="col-sm-4 isotopeItem '+imageData[i]["Tag"]+'"><div class="portfolio-item"><img src="media/gallery/'+imageData[i]["Path"]+'" alt="" /> <div class="portfolio-desc align-center"><div class="folio-info"><a href="media/gallery/'+imageData[i]["Tag"]+'" class="fancybox"><h5>'+imageData[i]["Title"]+'</h5><i class="fa fa-link fa-2x"></i></a></div></div></div></article>'
+			tableRef.innerHTML = tableRef.innerHTML + myHtmlContent;
+		}
+	});
+}
+
+function RandomiseChildren(nodeX){
+	// nodeX can be any html element
+	// randomize its children
+	// http://xahlee.info/js/js_dom_randomize_list.html
+	// version 2017-05-11
+	const newNode = nodeX.cloneNode(true);
+	const xChildren = newNode.children;
+	const newNodeFrag = document.createDocumentFragment();
+
+	while (xChildren.length > 0) {
+		newNodeFrag.appendChild( xChildren [Math.floor(Math.random() * xChildren.length)] );
+	};
+
+	nodeX.innerHTML = "";
+	nodeX.appendChild(newNodeFrag);
+}
+							</script>
                         </div>
                     </div>
                 </div>
@@ -268,47 +307,6 @@
         </div>
 
     </footer>
-	<!-- This script randomises the elements in the gallery -->
-	<script>
-		function RandomiseGallery(){
-			CallForImages();
-			RandomiseChildren(document.getElementById("3"));
-		}
-		
-		//Makes an asynch request, loading the getimages.php file
-        function CallForImages() {
-			fetch('content/galleryimages.json')
-			.then(response => response.text())
-			.then(text => JSON.parse(text))
-			.then(imageData => {
-				console.log(imageData);
-				var tableRef = document.getElementById('3');
-				tableRef.innerHTML = "";
-				for (var i = 0; i < imageData.length; i++){
-					//var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Description"].replace("\\n", "<br>") + "</td></tr>"
-					var myHtmlContent = '<article class="col-sm-4 isotopeItem '+imageData[i]["Tag"]+'"><div class="portfolio-item"><img src="media/gallery/'+imageData[i]["Path"]+'" alt="" /> <div class="portfolio-desc align-center"><div class="folio-info"><a href="media/gallery/'+imageData[i]["Tag"]+'" class="fancybox"><h5>'+imageData[i]["Title"]+'</h5><i class="fa fa-link fa-2x"></i></a></div></div></div></article>'
-					tableRef.innerHTML = tableRef.innerHTML + myHtmlContent;
-				}
-			});
-        }
-		
-		function RandomiseChildren(nodeX){
-			// nodeX can be any html element
-			// randomize its children
-			// http://xahlee.info/js/js_dom_randomize_list.html
-			// version 2017-05-11
-			const newNode = nodeX.cloneNode(true);
-			const xChildren = newNode.children;
-			const newNodeFrag = document.createDocumentFragment();
-
-			while (xChildren.length > 0) {
-				newNodeFrag.appendChild( xChildren [Math.floor(Math.random() * xChildren.length)] );
-			};
-
-			nodeX.innerHTML = "";
-			nodeX.appendChild(newNodeFrag);
-		}
-	</script>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
