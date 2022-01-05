@@ -1,0 +1,52 @@
+[
+  {
+    "Path": "royalnavy_Dreadnought Class.png",
+    "Tag": "royalnavy",
+    "Title": "Dreadnought-class SSN"
+  },
+  {
+    "Path": "royalnavy_Resolution Class.png",
+    "Tag": "royalnavy",
+    "Title": "Resolution-class SSBN"
+  },
+  {
+    "Path": "royalnavy_Trafalgar Class.png",
+    "Tag": "royalnavy",
+    "Title": "Trafalgar-class SSN"
+  },
+  {
+    "Path": "royalnavy_Type 42.png",
+    "Tag": "royalnavy",
+    "Title": "Type 42 (Sheffield-class) DDG"
+  },
+  {
+    "Path": "usn_Flight I Arleigh Burke Class.png",
+    "Tag": "usn",
+    "Title": "Flight I Arleigh Burke-class DDG"
+  },
+  {
+    "Path": "usn_Gearing FRAM 1.png",
+    "Tag": "usn",
+    "Title": "FRAM I Gearing-class DD"
+  },
+  {
+    "Path": "usn_Oliver Hazard Perry Class.png",
+    "Tag": "usn",
+    "Title": "Oliver Hazard Perry-class FFG"
+  },
+  {
+    "Path": "usn_Ticonderoga Class.png",
+    "Tag": "usn",
+    "Title": "Ticonderoga-class CG"
+  },
+  {
+    "Path": "usn_Virginia Class.png",
+    "Tag": "usn",
+    "Title": "Virginia-class SSN"
+  },
+  {
+    "Path": "wp_Papa Class.png",
+    "Tag": "wp",
+    "Title": "Papa-class CG"
+  }
+]

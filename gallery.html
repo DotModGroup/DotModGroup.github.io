@@ -273,33 +273,23 @@
 		function RandomiseGallery(){
 			CallForImages();
 			RandomiseChildren(document.getElementById("3"));
-			
 		}
 		
 		//Makes an asynch request, loading the getimages.php file
         function CallForImages() {
-
-            //Create the request object
-            var httpReq = (window.XMLHttpRequest)?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP");
-
-            //When it loads,
-            httpReq.onload = function() {
-
-                //Convert the result back into JSON
-                //var result = JSON.parse(httpReq.responseText);
-
-                //Show the images
-                console.log(httpReq.responseText);
-            }
-
-            //Request the page
-            try {
-                httpReq.open("GET", "media/getgallery.php", true);
-                httpReq.send(null);
-            } catch(e) {
-                console.log(e);
-            }
-
+			fetch('content/galleryimages.json')
+			.then(response => response.text())
+			.then(text => JSON.parse(text))
+			.then(imageData => {
+				console.log(imageData);
+				var tableRef = document.getElementById('3');
+				tableRef.innerHTML = "";
+				for (var i = 0; i < imageData.length; i++){
+					//var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Description"].replace("\\n", "<br>") + "</td></tr>"
+					var myHtmlContent = '<article class="col-sm-4 isotopeItem '+imageData[i]["Tag"]+'"><div class="portfolio-item"><img src="media/gallery/'+imageData[i]["Path"]+'" alt="" /> <div class="portfolio-desc align-center"><div class="folio-info"><a href="media/gallery/'+imageData[i]["Tag"]+'" class="fancybox"><h5>'+imageData[i]["Title"]+'</h5><i class="fa fa-link fa-2x"></i></a></div></div></div></article>'
+					tableRef.innerHTML = tableRef.innerHTML + myHtmlContent;
+				}
+			});
         }
 		
 		function RandomiseChildren(nodeX){
