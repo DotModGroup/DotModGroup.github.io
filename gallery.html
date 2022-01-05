@@ -286,10 +286,10 @@
             httpReq.onload = function() {
 
                 //Convert the result back into JSON
-                var result = JSON.parse(httpReq.responseText);
+                //var result = JSON.parse(httpReq.responseText);
 
                 //Show the images
-                console.log(result);
+                console.log(httpReq.responseText);
             }
 
             //Request the page
