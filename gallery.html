@@ -22,7 +22,7 @@
 	<![endif]-->
 </head>
 
-<body>
+<body onload="RandomiseGallery()">
     <!-- Fixed navbar -->
     <div class="navbar navbar-inverse">
         <div class="container">
@@ -268,7 +268,29 @@
         </div>
 
     </footer>
+	<!-- This script randomises the elements in the gallery -->
+	<script>
+		function RandomiseGallery(){
+			RandomiseChildren(document.getElementById("3"));
+		}
+		
+		function RandomiseChildren(nodeX){
+			// nodeX can be any html element
+			// randomize its children
+			// http://xahlee.info/js/js_dom_randomize_list.html
+			// version 2017-05-11
+			const newNode = nodeX.cloneNode(true);
+			const xChildren = newNode.children;
+			const newNodeFrag = document.createDocumentFragment();
 
+			while (xChildren.length > 0) {
+				newNodeFrag.appendChild( xChildren [Math.floor(Math.random() * xChildren.length)] );
+			};
+
+			nodeX.innerHTML = "";
+			nodeX.appendChild(newNodeFrag);
+		}
+	</script>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
