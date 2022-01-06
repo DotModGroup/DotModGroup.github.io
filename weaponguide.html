@@ -20,7 +20,7 @@
 	<![endif]-->
 </head>
 
-<body>
+<body onload="LoadWeapons()">
     <!-- Fixed navbar -->
     <div class="navbar navbar-inverse">
         <div class="container">
@@ -39,12 +39,12 @@
                 <ul class="nav navbar-nav pull-right">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="about.html">About</a></li>
-                    <li class="active"><a href="coldwaters.html">Cold Waters - DotMod</a></li>
+                    <li><a href="coldwaters.html">Cold Waters - DotMod</a></li>
                     <li><a href="gallery.html">Gallery</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Guides <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="weaponguide.html">Weapons</a></li>
+                            <li class="active"><a href="weaponguide.html">Weapons</a></li>
                             <li><a href="#">Dummy Link1</a></li>
                             <li><a href="#">Dummy Link2</a></li>
                             <li><a href="#">Dummy Link3</a></li>
@@ -65,80 +65,22 @@
             <!-- Article content -->
             <section class="col-sm-12 maincontent">
                 <header class="page-header">
-                    <h1 class="page-title">Cold Waters - DotMod</h1>
+                    <h1 class="page-title">Cold Waters - DotMod Weapons</h1>
                 </header>
-                <h3>Responsive Website</h3>
-                <p>
-                    <img src="assets/images/about.jpg" alt="" class="img-rounded pull-right" width="300">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <h3>Bootstrap</h3>
-                <p>Standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <table id="myTable">
+					<thead>
+						<tr class="header">
+							<th style="width:15%;">WeaponObjectReference</th>
+							<th style="width:15%;">WeaponName</th>
+							<th style="width:15%;">WeaponSprite</th>
+							<th style="width:55%;">WeaponDescription</th>
+						</tr>
+					</thead>
+					<tbody/>
+				</table>
             </section>
         </div>
     </div>
-    <!-- /container -->
-
-    <section id="services">
-        <div class="container">
-            <div class="heading">
-                <!-- Heading -->
-                <h2>What we do</h2>
-                <p>At lorem Ipsum available, but the majority have suffered alteration iien, non gravida purus. Alinon elit imperdiet congue. Integer ultricies sed elit imperdiet congue. Integer ultricieien, non gravida purus. Alinon elit imperdiet congue. Integer ultricies sed elit imperdiet congue. Integer ultricien some form by injected humour.</p>
-                <br />
-            </div>
-            <div class="row">
-
-                <!-- item -->
-                <div class="col-md-4 text-center">
-                    <i class="fa fa-arrows fa-2x circle"></i>
-                    <h3>Responsive <span class="id-color">Design</span></h3>
-                    <p>Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet congue.</p>
-                </div>
-                <!-- end: -->
-
-                <!-- item -->
-                <div class="col-md-4 text-center">
-                    <i class="fa fa-css3 fa-2x circle"></i>
-                    <h3>HTML5/CSS3 <span class="id-color">Dev</span></h3>
-                    <p>Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet congue.</p>
-                </div>
-                <!-- end: -->
-
-                <!-- item -->
-                <div class="col-md-4 text-center">
-                    <i class="fa fa-lightbulb-o fa-2x circle"></i>
-                    <h3>JavaScript <span class="id-color">jQuery</span></h3>
-                    <p>Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer ultricies sed elit impe.</p>
-                </div>
-                <!-- end: -->
-
-                <!-- item -->
-                <div class="col-md-4 text-center">
-                    <i class="fa fa-globe fa-2x circle"></i>
-                    <h3>Web <span class="id-color">Designing</span></h3>
-                    <p>Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet conempus.</p>
-                </div>
-                <!-- end:-->
-                <!-- item -->
-                <div class="col-md-4 text-center">
-                    <i class="fa fa-desktop fa-2x circle"></i>
-                    <h3>Wordpress <span class="id-color">Dev</span></h3>
-                    <p>Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer ultricies sed elit imperdiet congue. Integer ultricies sed ligula eget tempus.</p>
-                </div>
-                <!-- end: -->
-
-                <!-- item -->
-                <div class="col-md-4 text-center">
-                    <i class="fa fa-tablet fa-2x circle"></i>
-                    <h3>Mobile <span class="id-color">Dev</span></h3>
-                    <p>Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet congue. Integer ultricies sed ultricies sed ligula eget tempus.</p>
-                </div>
-                <!-- end:-->
-
-            </div>
-        </div>
-        <!--/.container-->
-    </section>
 
     <footer id="footer" class="top-space">
 
@@ -210,6 +152,23 @@
         </div>
 
     </footer>
+	<script>
+async function LoadWeapons() {
+	var weaponData;
+	fetch('content/weapons.json')
+		.then(response => response.text())
+		.then(text => JSON.parse(text))
+		.then(weaponData => {
+			console.log(weaponData);
+			var tableRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
+			for (var i = 0; i < weaponData.length; i++){
+				var newRow = tableRef.insertRow(tableRef.rows.length);
+				var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Description"].replace("\\n", "<br>") + "</td></tr>"
+				newRow.innerHTML = myHtmlContent;
+			}
+		});
+}
+	</script>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
