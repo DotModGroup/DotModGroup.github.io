@@ -20,7 +20,7 @@
 	<![endif]-->
 </head>
 
-<body onload="LoadWeapons()">
+<body>
     <!-- Fixed navbar -->
     <div class="navbar navbar-inverse">
         <div class="container">
@@ -152,23 +152,6 @@
         </div>
 
     </footer>
-	<script>
-async function LoadWeapons() {
-	var weaponData;
-	fetch('content/weapons.json')
-		.then(response => response.text())
-		.then(text => JSON.parse(text))
-		.then(weaponData => {
-			console.log(weaponData);
-			var tableRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
-			for (var i = 0; i < weaponData.length; i++){
-				var newRow = tableRef.insertRow(tableRef.rows.length);
-				var myHtmlContent = "<tr><td>" + weaponData[i]["ObjectReference"] + "</td><td>" + weaponData[i]["Name"] + "</td><td><img src='https://github.com/DotModGroup/DotModGroup.github.io/raw/main/media/weapons/" + weaponData[i]["Sprite"] + "?raw=true' alt='" + weaponData[i]["Sprite"] + "'></td><td>" + weaponData[i]["Description"].replace("\\n", "<br>") + "</td></tr>"
-				newRow.innerHTML = myHtmlContent;
-			}
-		});
-}
-	</script>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
