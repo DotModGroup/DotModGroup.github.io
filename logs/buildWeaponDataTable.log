@@ -1,134 +1,155 @@
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_mk20s.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_mk20s from main/ColdWaters_Data/StreamingAssets/dotmod/uk_mk20s.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_mk8mod4.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_mk8mod4 from main/ColdWaters_Data/StreamingAssets/dotmod/uk_mk8mod4.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_spearfish.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_spearfish from main/ColdWaters_Data/StreamingAssets/dotmod/uk_spearfish.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/plan_yu-7_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_stingray from main/ColdWaters_Data/StreamingAssets/dotmod/plan_yu-7_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_tigerfish.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_tigerfish from main/ColdWaters_Data/StreamingAssets/dotmod/uk_tigerfish.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_exocet from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_c-801_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_seacat from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for uk_seadart from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for plan_yu-1 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for plan_yu-5 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_yu-5_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/plan_yu-7_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for plan_yu-7 from main/ColdWaters_Data/StreamingAssets/dotmod/plan_yu-7_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for plan_c-801 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_c-801_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for plan_cy-1 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_cy-1_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-40_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_set-40 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_set-40_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_set-65 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_set-65_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_set-65k from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_set-65_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_set-65m from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_set-65_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-68_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_test-68 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_test-68_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_test-71 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_test-71_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_at-1 from main/ColdWaters_Data/StreamingAssets/dotmod/dotmod
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_at-2 from main/ColdWaters_Data/StreamingAssets/dotmod/dotmod
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_umgt-1 from main/ColdWaters_Data/StreamingAssets/dotmod/dotmod
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_53-65_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_53-65 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_53-65_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_53-65_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_53-65k from main/ColdWaters_Data/StreamingAssets/dotmod/wp_53-65_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_65-76_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_65-76 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_65-76_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_saet-60m_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_saet-60m from main/ColdWaters_Data/StreamingAssets/dotmod/wp_saet-60m_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_shkval_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_shkval from main/ColdWaters_Data/StreamingAssets/dotmod/wp_shkval_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_test-71m from main/ColdWaters_Data/StreamingAssets/dotmod/wp_test-71_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_test-71mke from main/ColdWaters_Data/StreamingAssets/dotmod/wp_test-71_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_uset-80_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_uset-80 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_uset-80_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_uset-80_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_uset-80k from main/ColdWaters_Data/StreamingAssets/dotmod/wp_uset-80_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_moss_mg-14 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_moss_mg-74 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-120_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_p-120 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_p-120_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-270.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_p-270 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_p-270.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-6_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_p-6 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_p-6_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_p-70 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_ss-n-7_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-700_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_p-700 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_p-700_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_kinzhal from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_m-11 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_m-22 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_m-4 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_s-300 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_igla from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_strela-2 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_3m-54_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_3m-54 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_3m-54_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_urpk-3_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_urpk-3 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_urpk-3_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_urpk-3_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_urk-5 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_urpk-3_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_rpk-2-65_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_rpk-2-65 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_rpk-2-65_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_rpk-2-53_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_rpk-2 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_rpk-2-53_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_rpk-6 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_ss-n-16_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_s-10_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_s-10 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_s-10_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_r21_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_r21 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_r21_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/r27_slbm_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_r27 from main/ColdWaters_Data/StreamingAssets/dotmod/r27_slbm_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for knm_penguin from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_ugm84_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk48_adcap_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk48_adcap from main/ColdWaters_Data/StreamingAssets/dotmod/usn_mk48_adcap_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk48 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_mk48_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk16 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_mk16_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk46_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk46 from main/ColdWaters_Data/StreamingAssets/dotmod/usn_mk46_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk37 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_mk37_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_nt37c_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_nt37c from main/ColdWaters_Data/StreamingAssets/dotmod/usn_nt37c_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk50_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk50 from main/ColdWaters_Data/StreamingAssets/dotmod/usn_mk50_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_mk45 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_mk45_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_moss from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_uum-125b_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_uum-125b from main/ColdWaters_Data/StreamingAssets/dotmod/usn_uum-125b_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rim-66 from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66cm_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rim-66c from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66cm_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66cm_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rim-66m from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66cm_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-67_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rim-67a from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-67_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rim-7m from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rum-139_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rum-139 from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rum-139_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rur-5_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_rur-5 from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rur-5_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_tasm from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_tasm_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_ugm84 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_ugm84_sprite
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_tlam from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_tlam_sprite
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_trident_1_sprite.png
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for usn_trident_1 from main/ColdWaters_Data/StreamingAssets/dotmod/usn_trident_1_sprite.png
-01/04/2022 19:33:04 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/
-01/04/2022 19:33:04 -  ERROR: Failed to copy Sprite for wp_sonobuoy from main/ColdWaters_Data/StreamingAssets/dotmod/dotmod
+01/07/2022 23:37:01 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/dotmod
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:01 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:01 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
+01/07/2022 23:37:02 -  ERROR: Failed to copy Sprite for  from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+01/07/2022 23:37:02 -  ERROR: Failed to get Description for  from main/ColdWaters_Data/StreamingAssets/dotmod/language_en/weapon/_description.txt
