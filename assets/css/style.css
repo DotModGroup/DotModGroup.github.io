@@ -168,13 +168,13 @@ div.hbox {
 }
 
 .page-header {
-    border-bottom: 1px solid #15c008;
+    border-bottom: 1px solid #990000;
 }
 
 .page-title {
     margin-top: 20px;
     font-weight: 300;
-    color: #15c008;
+    color: #990000;
 }
 
 .text-muted {
