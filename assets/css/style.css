@@ -441,13 +441,13 @@ nav#filter {
     nav#filter a {
         padding: 4px 12px;
         line-height: 20px;
-        border: 1px solid #00bfff;
+        border: 1px solid #990000;
         text-decoration: none;
-        color: #00bfff;
+        color: #990000;
     }
 
         nav#filter a.current {
-            background: #00bfff;
+            background: #990000;
             color: #fff;
         }
 
