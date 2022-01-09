@@ -105,10 +105,6 @@ $beginning = @"
     <!-- /Header -->
 
 	<div class="container">
-        <div class="row">
-            <!-- Article content -->
-            
-    <div class="container">
         <div class='row'>
             <div class='col-md-12'>
 				<header class="page-header">
@@ -116,6 +112,7 @@ $beginning = @"
                 </header>
             </div>
         </div>
+        <!-- Article content -->
 "@
 
 $end = @"
