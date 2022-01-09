@@ -1,0 +1,8 @@
+<div class='row'>
+	<div class='col-md-12'>
+		<h3>Resolution-class Nuclear Ballistic Missile Submarine</h3>
+		<img src="media/images/ResolutionMissileTubes.png" alt="" class="img-rounded pull-right" width="375">
+		<img src="media/images/ResolutionProp.png" alt="" class="img-rounded pull-right" width="375">
+		<p>Under Development by TheHappyYachter.</p>
+	</div>
+</div>

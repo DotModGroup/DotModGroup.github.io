@@ -1,0 +1,8 @@
+<div class='row'>
+	<div class='col-md-12'>
+		<h3>Ticonderoga-class Cruiser</h3>
+		<img src="media/images/TiconderogaBow.png" alt="" class="img-rounded pull-right" width="375">
+		<img src="media/images/TiconderogaStern.png" alt="" class="img-rounded pull-right" width="375">
+		<p>Originally developed by ElectricBoat as a Spruance-class model for Dangerous Waters this model was lovingly converted to a Ticonderoga by TheHappyYachter in much the same way as the real platform.</p>
+	</div>
+</div>

@@ -1,0 +1,8 @@
+<div class='row'>
+	<div class='col-md-12'>
+		<h3>Type 42 (Sheffield-class) Destroyer</h3>
+                <img src="media/images/Type42UnitReference.png" alt="" class="img-rounded pull-right" width="375">
+		<img src="media/images/Type42PortQuarterUnitReference.png" alt="" class="img-rounded pull-right" width="375">
+		<p>Built from scratch by TheHappyYachter this model was one of the earliest imported into Cold Waters. Since then it has had a complete rebuild and is one of our newest inclusions.</p>
+	</div>
+</div>

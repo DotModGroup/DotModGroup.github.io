@@ -1,0 +1,8 @@
+<div class='row'>
+	<div class='col-md-12'>
+		<h3>Barbel-class Diesel Electric Submarine</h3>
+		<img src="media/images/BarbelBow.png" alt="" class="img-rounded pull-right" width="375">
+		<img src="media/images/BarbelStern.png" alt="" class="img-rounded pull-right" width="375">
+		<p>Originally developed by ElectricBoat for Dangerous Waters this model was lovingly converted by TheHappyYachter and textured by Kevin DDSSTT.</p>
+	</div>
+</div>

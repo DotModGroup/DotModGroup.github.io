@@ -1,0 +1,8 @@
+<div class='row'>
+	<div class='col-md-12'>
+		<h3>Arleigh Burke-class Destroyer</h3>
+		<img src="media/images/ArleighBurkeRadar.png" alt="" class="img-rounded pull-right" width="375">
+		<img src="media/images/ArleighBurkeBow.png" alt="" class="img-rounded pull-right" width="375">
+		<p>A conversion of an open source model originally developed for Cities: Skylines to Cold Waters. This model was tweaked to have a better shape and remapped and then provided with completely new textures by the team.</p>
+	</div>
+</div>
