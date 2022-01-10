@@ -1,20 +1,23 @@
 name: File List
-on: workflow_dispatch
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout DotMod Website Repo
+        if: github.actor != 'github-pages'
         uses:  actions/checkout@v2
         with:
           path: website
           repository: DotModGroup/DotModGroup.github.io
           token: ${{ secrets.ORG_ACCESS_TOKEN }}
       - name: Build Weapon Index
+        if: github.actor != 'github-pages'
         shell: pwsh
         run: |
           ./website/.github/scripts/buildIndex.ps1
       - name: Commit Website Repo Changes
+        if: github.actor != 'github-pages'
         run: |
           cd website
           date > lastupdate.txt
