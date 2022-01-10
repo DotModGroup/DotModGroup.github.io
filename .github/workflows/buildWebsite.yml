@@ -13,7 +13,7 @@ jobs:
       - name: Build Weapon Index
         shell: pwsh
         run: |
-          ./main/.github/scripts/buildIndex.ps1
+          ./website/.github/scripts/buildIndex.ps1
       - name: Commit Website Repo Changes
         run: |
           cd website
