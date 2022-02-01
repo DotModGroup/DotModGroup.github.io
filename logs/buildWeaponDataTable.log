@@ -1,547 +1,547 @@
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/05_Norway/03_Missile/weapon_knm_penguin.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon knm_penguin
-02/01/2022 02:14:38 -  SUCCESS: Got sprite weapons/sprites/usn_ugm84_sprite
-02/01/2022 02:14:38 -  ERROR: Failed to copy Sprite for knm_penguin from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_ugm84_sprite
-02/01/2022 02:14:38 -  SUCCESS: Got Name Penguin Mk 2 Missile
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Penguin anti-ship missile, designated AGM-119 by the U.S. military, is a Norwegian passive IR seeker-based short-to-medium range anti-ship guided missile, designed for naval use.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/03_Mark45/weapon_usn_mk45.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk45
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk45_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk45_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk45_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 45 Torpedo Mod 1(Mk45)
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mk45 was the only nuclear torpedo in service with the USN, intended for use against high-speed, deep-diving, enemy submarines. Westinghouse also marketed a conventional version as the 'Freedom Torpedo'. The Mod 1 is a conjectural weapon assuming nuclear torpedoes would be 'field modified' in a conventional war.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/01_StraightRunners/weapon_usn_mk16.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk16
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk16_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk16_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk16_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 16 Torpedo (Mk16)
-02/01/2022 02:14:38 -  SUCCESS: Got Description These straight-running WW2-vintage torpedoes were in service as anti-ship weapons until 1972, when they were replaced (along with the Mk37 ASW torpedo) by the dual-purpose Mk48. Guidance is limited to a gyro angle and hit probability is low at anything over point-blank range.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/02_Mark37/weapon_usn_mk37_mod2.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk37_mod2
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk37_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk37_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk37_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 37 Mod 2 Torpedo (Anti-Submarine Torpedo)
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mark 37 Mod 1 Torpedos were withdrawn from service and refurbished and reissued as Mod 2 Torpedos with deliveries beginning in 1967. The refurbishing involved many changes, one of note being the switch from magnetostrictive to ceramic piezolectric transducers. This change extended the acquisition range to 1000 yards and avoided loss of sensitivity with depth.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/02_Mark37/weapon_usn_mk37_mod3.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk37_mod3
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk37_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk37_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk37_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 37 Mod 3 Torpedo (Anti-Submarine Torpedo)
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mark 37 Mod 0 was the standard US Submarine Launced ASW torpedo of the 1960's, this is the Mark 37 Mod 3 is a free-running Passive-Active Homming Torpedo. This is the upgraded version of the Mark 37 Mod 0 Torpedo, featuring improved sensors, and active run time, however the maximum unactivated range remains the same.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/02_Mark37/weapon_usn_nt37c.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_nt37c
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_nt37c_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_nt37c_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_nt37c_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name NT37C Torpedo
-02/01/2022 02:14:38 -  SUCCESS: Got Description The NT37C is a significantly-upgraded Otto-fueled version of the Mark 37 that was primarily used for export. Canada, Italy, and Isreal, among others, all used this torpedo on thier subs as a primary dual-purpose weapon.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/05_Mark48/weapon_usn_mk48_adcap.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk48_adcap
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk48_adcap_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk48_adcap_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk48_adcap_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 48 ADCAP Torpedo (Mk48)
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mark 48 ADCAP is an improvement of the Mk48 boasting increased speed and better electronics, allowing it to effectively engage faster and deeper diving enemy submarines, such as the Alfa.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/05_Mark48/weapon_usn_mk48.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk48
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk48_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk48_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk48_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 48 Torpedo (Mk48)
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mk48 is an advanced dual-purpose torpedo in service with the US Navy since 1972 where it has replaced the Mk14 and Mk37 torpedoes. It combines great speed and an advanced passive/active homing system along with an impressive range of 3000 yards.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/06_Mark50/weapon_usn_mk50.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk50
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk50_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk50_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk50_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 50 Torpedo
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mark 50 torpedo was a U.S. Navy advanced lightweight torpedo for use against fast, deep-diving submarines intended to replace the Mk 46 as the fleet's lightweight torpedo.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/04_Mark46/weapon_usn_mk46_mod_5.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk46_mod_5
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk46_mod_5_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk46_mod_5_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk46_mod_5_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got Name Mark 46 Mod 5 NEARTIP Torpedo
-02/01/2022 02:14:38 -  SUCCESS: Got Description The Mark 46 Mod 5 NEARTIP Upgrade kit for the Mark 46 with more powerful Mk 103 Mod 1 warhead, improved computer with snake search pattern capability, new passive/active sonar, liquid fuel, and two speed engine for low speed search and high speed attack. Introduced in 1979. NEARTIP stands for Near Term Improvement Program.
-02/01/2022 02:14:38 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/04_Mark46/weapon_usn_mk46.txt
-02/01/2022 02:14:38 -  SUCCESS: Got weapon usn_mk46
-02/01/2022 02:14:38 -  SUCCESS: Got sprite hud/sprites/usn_mk46_sprite.png
-02/01/2022 02:14:38 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk46_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk46_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Mark 46 Mod 0 Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Mark 46 is the US Navy's standard airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the RUR-5 ASROC rocket assisted torpedo. The guidance system has a range of 1600 yards.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/02_Decoy/weapon_usn_moss.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_moss
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_moss_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_moss_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_moss_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Mark 70 Mobile Submarine Simulator (MOSS)
-02/01/2022 02:14:39 -  SUCCESS: Got Description The MK70 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth, which means a submarine can launch it and escape on the opposite side of the layer.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/03_LandAttack/02_SLBM/weapon_usn_trident_1.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_trident_1
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_trident_1_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_trident_1_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_trident_1_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name UGM-96 Trident I
-02/01/2022 02:14:39 -  SUCCESS: Got Description The UGM-96 Trident I is a U.S. Navy submarine-launched ballistic missile (SLBM) that first entered service in 1979. It was a major development over the proceeding Poseidan SLBM, as it allowed ballistic missile submarines to launch nuclear strikes from the central Atlantic Ocean. This in turn kept them safe from Soviet ASW forces. The missile was then retrofitted into several of the older SSBN classes and Ohio-class submarines. It remained in service until 2005, when it was replaced by the UGM-133 Trident II.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/03_LandAttack/01_CruiseMissile/weapon_usn_tlam.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_tlam
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/usn_tlam_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for usn_tlam from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_tlam_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name Tomahawk Land Attack Missile (TLAM)
-02/01/2022 02:14:39 -  SUCCESS: Got Description Land attack version of the UGM-109 Tomahawk missile. It carries either a conventional high-explosive warhead or cluster munitions. Advanced contour matching and terrain-following radar allows its destructive power to be delivered with pin-point accuracy.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/02_ASM/weapon_usn_tasm.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_tasm
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/usn_tasm_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for usn_tasm from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_tasm_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name Tomahawk Missile (TASM)
-02/01/2022 02:14:39 -  SUCCESS: Got Description This is the anti-ship version of the UGM-109 Tomahawk missile. Compared to the Harpoon, it is faster and packs a significantly larger punch. However being larger makes it a bigger target for CIWS.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/02_ASM/weapon_usn_ugm84.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_ugm84
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/usn_ugm84_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for usn_ugm84 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_ugm84_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name Harpoon Missile (UGM-84)
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Sub-Harpoon has equipped US submarines and their allies since the early 70's. Although a small weapon, with a small warhead and comparatively slow it is very effective against small enemies lacking anti-missile defences. Against better armed targets they probably best launched in salvos to guarantee a hit.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rim-66
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RIM-66A Standard Missile 1 MR
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/>The RIM-66 Standard is an medium range surface-to-air missile (SAM) and anti ship missile originally developed for the United States Navy. The RIM-67 was developed as a replacement for the RIM-8 Talos, a 1950s system deployed on a variety of USN ships, and eventually replaced the RIM-2 Terrier as well, since it was of a similar size and fitted existing Terrier launchers and magazines. The RIM-66 Standard MR was essentially the same missile without the booster stage, designed to replace the RIM-24 Tartar. The RIM-66/67 series thus became the US Navy's universal SAM system, hence the "Standard Missile" moniker. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66c.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rim-66c
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66cm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66cm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66cm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RIM-66C Standard Missile 2 MR
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/>The RIM-66C Standard MR (SM-2MR Block I) was developed in the 1970s and was a key part of the Aegis combat system and New Threat Upgrade (NTU). The SM-2MR introduced inertial and command mid-course guidance. The missile's autopilot is programmed to fly the most efficient path to the target and can receive course corrections from the ground. Target illumination for semi-active homing is needed only for a few seconds in the terminal phase of the interception. This capability enables the Aegis combat system and New Threat Upgrade equipped vessels to time share illumination radars, greatly increasing the number of targets that can be engaged in quick succession
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66e.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rim-66e
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RIM-66E Standard Missile 1 MR
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile <br/>The RIM-66E was the last version of the Standard Missile One Medium-Range (SM-1MR). This version entered service in 1983 with the United States Navy. The RIM-66E was used by the Oliver Hazard Perry-class frigates which controlled it with the Mk92 fire control system. Production of this missile ended in 1987; however there are a large number of this model in service and it is expected to remain viable until 2020. The missile features monopulse seeker developed for SM-2, a MK 45 MOD 4 proximity fuze (also known as TDD - Target Detection Device), the MK 115 warhead of SM-2, and MK 45 MOD 6 and MK 45 MOD 7 proximity fuzes.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66m-5.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rim-66m
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66cm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66cm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66cm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RIM-66M-5 Standard Missile 2 MR
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/>The RIM-66M-5 (SM-2MR Block IIIB) is the version of the Standard missile two medium range (SM-2MR) entered serive in 1998, with the USN aboard Ticonderoga class cruisers, and Arleigh Burke class destroyers. The missile is specifically designed for the Aegis Combat System and the Mk41 Vertical launch system. The Block IIIB missiles differ from earlier blocks by the addition of the MK 45 MOD 9 target detecting device, for improved performance against low altitude targets, and dual semi-active/infrared seeker for terminal homing. The dual seeker is intended for use in high-ECM environments, against targets over the horizon or with a small radar cross section. The seeker was originally developed for the canceled AIM-7R Sparrow air-to-air missile.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-67a.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rim-67a
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-67_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-67_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-67_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RIM-67A Standard Missile 1 ER
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/><br/>The RIM-67 Standard ER (SM-1ER/SM-2ER) is an extended range surface-to-air missile (SAM) and anti ship missile originally developed for the United States Navy. The RIM-67 was developed as a replacement for the RIM-8 Talos, a 1950s system deployed on a variety of USN ships, and eventually replaced the RIM-2 Terrier as well, since it was of a similar size and fitted existing Terrier launchers and magazines. The RIM-66 Standard MR was essentially the same missile without the booster stage, designed to replace the RIM-24 Tartar. The RIM-66/67 series thus became the US Navy's universal SAM system, hence the "Standard Missile" moniker. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-7m.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rim-7m
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RIM-7 Sea Sparrow SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Universal<br/>RIM-7 Sea Sparrow is a U.S. ship-borne short-range anti-aircraft and anti-missile weapon system, primarily intended for defense against anti-ship missiles. The system was developed in the early 1960s from the AIM-7 Sparrow air-to-air missile as a lightweight "point-defense" weapon that could be retrofitted to existing ships as quickly as possible, often in place of existing gun-based anti-aircraft weapons. In this incarnation, it was a very simple system guided by a manually aimed radar illuminator. After its introduction, the system underwent significant development into an automated system similar to other US Navy missiles like the RIM-2 Terrier. Contemporary improvements being made to the Sparrow for the air-to-air role led to similar improvements in the Sea Sparrow through the 1970s and 80s. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/04_ASROC/weapon_usn_68_rur-5.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_68_rur-5
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_68_rur-5_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_68_rur-5_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_68_rur-5_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RUR-5 ASROC ASW Rocket (1968)
-02/01/2022 02:14:39 -  SUCCESS: Got Description Surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 lightweight torpedo.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/04_ASROC/weapon_usn_84_rur-5.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_84_rur-5
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_84_rur-5_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_84_rur-5_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_84_rur-5_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RUR-5 ASROC ASW Rocket (1984)
-02/01/2022 02:14:39 -  SUCCESS: Got Description Surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 Mod 5 NEARTIP lightweight torpedo.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/04_ASROC/weapon_usn_rum-139.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_rum-139
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rum-139_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rum-139_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rum-139_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RUM-139 VL-ASROC ASW Rocket
-02/01/2022 02:14:39 -  SUCCESS: Got Description Surface ship-vertical launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mark 46 Mod 5 NEARTIP lightweight torpedo. The VL-ASROC as increased range over the earlier RUR-5 ASROC
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/03_SUBROC/weapon_usn_uum-125b.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon usn_uum-125b
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_uum-125b_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_uum-125b_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_uum-125b_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name UUM-125B Sea Lance
-02/01/2022 02:14:39 -  SUCCESS: Got Description A conventionally armed variant of the UUM-125A Nuclear Tipped ASW Standoff Weapon.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_test-71m.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_test-71m
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud\sprites\wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name TEST-71M Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description This 4th generation electrical torpedo is an improved version of the TEST-71 wire-guided torpedo. The speed and range are the same but the previous restrictions on wire guidance has been removed.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_test-71mke.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_test-71mke
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud\sprites\wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name TEST-71MK Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description This 5th generation electrical torpedo is a further improvement of the TEST-71M wire-guided torpedo. The speed and range remain the same but the new "Keramika" guidance system with increaced sensor range has been installed.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_uset-80.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_uset-80
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud\sprites\wp_uset-80_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_uset-80_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_uset-80_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name USET-80 Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Optional wake-homing<br/>This soviet 5th generation dual-purpose torpedo equips the latest technology and boasts higher performance than SET-65. It has an active/passive homing system with a extended range, making this a dangerous weapon to contend with. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Optional wake-homing activates when torpedo launched in "SHALLOW" mode and works in conjunction with common guidance system.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_uset-80k.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_uset-80k
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud\sprites\wp_uset-80_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_uset-80_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_uset-80_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name USET-80K Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description This Soviet dual-purpose torpedo is an upgrade over the USET-80. It has an improved sensor range, but lacks wake-homing.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-40.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_set-40
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_set-40_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-40_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-40_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name SET-40 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW, Small caliber<br/>The SET-40 is an 4th generation electrical anti-submarine torpedo with active/passive acoustic guidance. Due to its size it can be loaded only into 400mm torpedo tubes. Also, smaller size means that it takes less time to load. Will not lock on surface targets.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-65.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_set-65
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name SET-65 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW<br/>The SET-65 is a 3rd generation electrical anti-submarine torpedo with active acoustic guidance. Will not lock on surface targets.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-65k.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_set-65k
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name SET-65K Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The latest modification of SET-65, 5th generation SET-65K is an electrical dual-purpose torpedo with newer guidance system "Keramika" which is capable to lock on both submerged and surface targets and has an increaced sensor range.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-65m.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_set-65m
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name SET-65 III Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW<br/>The SET-65 III is a 4th generation electrical anti-submarine torpedo. It is a moderinzed version of original SET-65 torpedo with new active/passive "Sapfir" guidance system. Will not lock on surface targets.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_test-68.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_test-68
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud\sprites\wp_test-68_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-68_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-68_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name TEST-68 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW, Limited wire guidance<br/> The TEST-68 was the first wire-guided topredo developed by the Soviet Union. It was first deployed in 1969, and was a much smaller, slower, and shorter-ranged weapon than its sucessor.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_test-71.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_test-71
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud\sprites\wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-71_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name TEST-71 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW, Limited wire guidance<br/>This 4th generation electrical torpedo improves on the SET-65 by introducing basic wire guidance and more advanced active/passive homing capabilities of "Sapfir" guidance system. However the range of the homing system remains the same. Will not lock on surface targets. Horizontal-only wire guidance. Wire breaks at depth less then 12 meters.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_53-65.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_53-65
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_53-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_53-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_53-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name 53-65 Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Wake-homing<br/>The 53-65 torpedo family are Russian made wake-homing torpedoes designed to destroy surface ships. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_53-65k.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_53-65k
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_53-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_53-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_53-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name 53-65K
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Wake-homing<br/>Anti-ship torpedo. The 53-65K is the upgraded version of the 53-65 torpedo. It has an extended range due to new propulsion system. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_65-76.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_65-76
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_65-76_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_65-76_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_65-76_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name 65-76 "Whale" Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Wake-homing, Large caliber<br/>The 65-76 is a 650mm wake-homing torpedo manufactured in the Soviet Union/Russia. It was developed for use against US Navy aircraft carrier battle groups, as well as large merchant targets such as supertankers or superfreighters. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Due to its size it can be loaded only into 650mm torpedo tubes. Also, bigger size means that it takes more time to load.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_saet-60m.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_saet-60m
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_saet-60m_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_saet-60m_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_saet-60m_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name SAET-60M Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Anti-ship only.<br/>The SAET-60M is an anti-ship torpedo specifically designed for the self-defense from ASW assets. It can lock only on surface targets and useless against submerged submarines. Due to it passive sensor system and the anti-ship only usage, its effective sensor range is four times smaller than specified and is about 600m (656 yards).
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_shkval.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_shkval
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_shkval_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_shkval_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_shkval_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name VA-111 Shkval Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Piercing.<br/>The VA-111 Shkval supercavitating torpedo originally developed by the Soviet Union. It is capable of speeds in excess of 200 knots. While it has weak warhead on paper, it is capable of dealing tremendous damage because due to high speed it pierces ship's hull and detonates inside, which often leads to detonation of ship's munitions or fuel.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/04_AirDropped/weapon_wp_at-1.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_at-1
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_at-1 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_shkval_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name AT-1 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW<br/>The AT-1 is an 4th generation electrical air-dropped torpedo with active/passive acoustic guidance carried only by helicopters. Will not lock on surface targets.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/04_AirDropped/weapon_wp_at-2.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_at-2
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_at-2 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name AT-2 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW<br/>The AT-2 is an 4th generation electrical heavy-weight, anti-submarine, air-launched torpedo with active/passive acoustic guidance. Carried by aircraft and some ASW missiles. Will not lock on surface targets. In order to achieve the requested range, speed and detection range, a large diameter torpedo was required. This makes the AT-2 one of the few air-launched heavy-weight torpedoes developed during the Cold War. The majority of the air-launched torpedoes are much smaller and only a quarter of the weight. These features preclude the operability of this torpedo from anti-submarine helicopters.<br/>While there is a number of modifications of AT-2 in real world, they are represented by a single version in the game since their differences are irrelevant gamewise.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/04_AirDropped/weapon_wp_umgt-1.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_umgt-1
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_umgt-1 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name UGMT-1 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: ASW<br/>4th generation electrical torpedo that equips most Soviet helicopters, ASW aircraft and serves as the payload for the SS-N-14 and SS-N-16 ASW missiles. Being lightweight, their warheads are weaker than torpedoes used by ships or submarines. Will not lock on surface targets.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/02_Decoy/weapon_wp_moss_mg-14.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_moss_mg-14
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/usn_moss_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_moss_mg-14 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name МG-14 "Anabar" Self-Propelled Decoy
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Small caliber<br/>The MG-14 was a passive countermeasure deployed by the Soviet Union to divert torpedoes away from the launching submarine. Due to its size it can be loaded only into 400mm torpedo tubes. Also, smaller size means that it takes less time to load.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/02_Decoy/weapon_wp_moss_mg-74.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_moss_mg-74
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/usn_moss_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_moss_mg-74 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name U.S.S.R.\n MG-74 "Korund-2"\n 533mm-cal Self-Propelled Decoy
-02/01/2022 02:14:39 -  SUCCESS: Got Description The MG-74 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth, which means a submarine can launch it and escape on the opposite side of the layer.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/03_LandAttack/02_SLBM/weapon_wp_r21.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_r21
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_r21_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_r21_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_r21_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name R27 SLBM
-02/01/2022 02:14:39 -  SUCCESS: Got Description The R-27 (NATO: SS-N-5 Sark/Serb), was submarine-launched ballistic missile in service with the Soviet Union between 1963 and 1989. It was the first Soviet nuclear missile that could be launched from a submerged submarine, and also had twice the range of earlier missiles. It replaced the R-11FM and R-13 (SS-N-4) on many Golf and Hotel-class submarines, and was in turn superseded by the R-27 (SS-N-6 'Serb') missile carried by Yankee-class submarines.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/03_LandAttack/02_SLBM/weapon_wp_r27.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_r27
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/r27_slbm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/r27_slbm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/r27_slbm_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name R27 SLBM
-02/01/2022 02:14:39 -  SUCCESS: Got Description The R-27 (NATO: SS-N-6 Serb), was one of the first Soviet SLBM's capable of being launched while completely submerged. The first and only installations where on the Yankee I-class SSBN starting in 1968, and it was finally withdrawn by 1988, with the SALT treaties.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/03_LandAttack/01_CruiseMissile/weapon_wp_s-10.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_s-10
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_s-10_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_s-10_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_s-10_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name S-10 "Granat" Cruise Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description The S-10 "Granat" (NATO reporting name: SS-N-21 Sampson) is a turbojet-powered, submarine launched land attack missile used by the Soviet navy. It resembles Tomahawk Land Attack Missile in various aspects, such as profile and usage.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/05_SUBROC/weapon_wp_rpk-2-65.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_rpk-2-65
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_rpk-2-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_rpk-2-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_rpk-2-65_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RPK-2 "Vyuga-65" ASW Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Large caliber<br/>The RPK-2 "Vyuga-65"(NATO reporting name: SS-N-15B Starfish) is a larger version of SS-N-15 designed for use in 650mm torpedo tubes instead of 530mm tubes. It carries more potent AT-2 torpedo.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/05_SUBROC/weapon_wp_rpk-2.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_rpk-2
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_rpk-2-53_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_rpk-2-53_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_rpk-2-53_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name RPK-2 "Vjuga" ASW Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description (NATO reporting name: SS-N-15)Submarine-launched stand-off ASW missile. It is similar to the SS-N-14 but drops the AT-1 homing torpedo.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/05_SUBROC/weapon_wp_rpk-6.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_rpk-6
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/wp_ss-n-16_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_rpk-6 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_ss-n-16_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name RPK-6 "Vodopad" ASW Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description RPK-6 "Vodopad"(NATO classification: SS-N-16 Stallion) is a underwater-launched stand-off ASW missile. It is similar to the SS-N-15 but drops the UGMT-1 homing torpedo.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-120.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_p-120
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_p-120_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-120_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-120_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name P-120 "Malakhit" Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description The P-120 "Malakhit" (NATO reporting name: SS-N-9 Siren) is a Soviet medium range anti-ship missile used by corvettes and submarines. Introduced in 1972, it remains in service but has been superseded by the SS-N-22 Sunburn.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-270.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_p-270
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_p-270.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-270.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-270.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name P-270 "Moskit" Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description The P-270 "Moskit" (NATO reporting name: SSS-N-22 Sunburn) is a Soviet supersonic ramjet powered anti-ship cruise missile.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-6.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_p-6
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_p-6_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-6_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-6_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name P-6 Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Universal<br/>The SS-N-3A Shaddock was a anti-ship/land-attack missile carried by The Juliett and Echo II guided missile submarines. Guidance system is universal and allows switch between ship-attack and land-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-70.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_p-70
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/wp_ss-n-7_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_p-70 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_ss-n-7_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name "Amethyst" Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description P-70 "Amethyst" (NATO reporting name: SS-N-7 Starbright) is a high-subsonic cruise missile designed for the Papa and Charlie 1-class submarines. Earlier submarines of the Echo and Juliet classes used the SS-N-3 Shaddock supersonic cruise missile, whose mid-course guidance required the launching submarine to stay surfaced for long periods. The SS-N-7 instead uses submerged launch, and the relatively short range of the missile means no midcourse guidance is necessary and the submarine can use its own sensors for targeting.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-700.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_p-700
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_p-700_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-700_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-700_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name P-700 "Granit" Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Universal<br/>The P-700 "Granit"(NATO reporting name: SS-N-19 Shipwreck) is a Russian naval anti-ship/land-attack cruise missile. It comes in surface-to-surface and submarine-launched variants. It was designed in the 1970s to replace the P-70 Ametist and P-120 Malakhit, both effective missiles but with too short a range in the face of improving weapons of U.S. Navy carrier battlegroups. Guidance system is universal and allows switch between ship-attack and land-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_urk-5.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_urk-5
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_urpk-3_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_urpk-3_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_urpk-3_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name URK-5 "Rastrub-B" Anti-ship/Anti-sub Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Dual-purpose<br/>URK-5 "Rastrub-B" (NATO classification: SS-N-14 Silex) is a modernization of an URPK-3 "Metel'". Anti-ship mode was introduced and it could be used both against surface and submerged targets, giving ships like the Krivak ASuW capabilities without reducing storage for thier ASW missiles. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/02_MANPADS/weapon_wp_igla.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_igla
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name "Igla" MANPADS
-02/01/2022 02:14:39 -  SUCCESS: Got Description The 9K38 "Igla" (NATO reporting name: SA-18 Grouse) is a Soviet man-portable infrared homing surface-to-air missile system.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/02_MANPADS/weapon_wp_strela-2.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_strela-2
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name "Strela-2" MANPADS
-02/01/2022 02:14:39 -  SUCCESS: Got Description The 9K32 Strela-2 (NATO reporting name: SA-7 Grail) is a passive-infared homing MANPADS system. It can often be found in a submarine's conning tower for close-range anti-aircraft defense.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_kinzhal.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_kinzhal
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name "Kinzhal" SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description "Kinzhal" SAM (NATO reporting name: SA-N-9 Gauntlet) is a Soviet naval surface-to-air missile system found on Udaloy-class vessels.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_m-11.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_m-11
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Shtorm SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Universal<br/>The Shtorm(NATO reporting name: SA-N-3 Goblet) is a Soviet naval surface-to-air missile system. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_m-22.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_m-22
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Uragan SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Uragan(NATO reporting name: SA-N-7 Gadfly) is a Soviet naval surface-to-air missile system.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_m-4.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_m-4
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Osa-MA SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Universal<br/>The Osa-MA(NATO reporting name: SA-N-4 Gecko) is a Soviet short-range, surface-to-air missile system for shipboard point defense. It is a naval variant of the SA-8 Gecko system. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_s-300.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_s-300
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name S-300F "Fort" SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Universal<br/>S-300F "Fort" SAM (NATO reporting name: SA-N-6 Grumble) is a Soviet naval long range surface-to-air missile system. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/99_Special/weapon_wp_3m-54.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_3m-54
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_3m-54_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_3m-54_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_3m-54_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name 3M-54 "Kalibr" Anti-ship missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description Special: Came from future<br/>The 3M-54 "Kalibr" (NATO: SS-N-27B Sizzler) is a modern russian anti-ship missile. Since it falls out of the game's timeframe, it is here only for testing purposes and its stats and functions can differ from real ones.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/04_ASROC/weapon_wp_urpk-3.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_urpk-3
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/wp_urpk-3_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_urpk-3_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/wp_urpk-3_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name URPK-3 "Metel'" ASW Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description URPK-3 "Metel'" (NATO classification: SS-N-14 Silex) is a subsonic ASW missile equipped on most Soviet large anti-submarine ships as well as the frigates of the Krivak class. It can be launched to the first convergence zone, and drops an AT-2 homing torpedo. Because it has a larger range than the effective range of the surface ship sonar, it can use targeting data transmitted from any friendly sea or air unit via datalink.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_mk20s.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_mk20s
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/uk_mk20s.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_mk20s.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/uk_mk20s.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Mark 20S "Bidder" Submarine Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Passive Homing Torpedo of the Royal Navy, developed in the 1950s and in service until replaced by Mark 24 Tigerfish in the 1980s.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_mk8mod4.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_mk8mod4
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/uk_mk8mod4.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_mk8mod4.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/uk_mk8mod4.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Mark 8 Mod 4 Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Mark VIII was the first burner-cycle torpedo in service. Although the original design dates from the 1920s, those manufactured during and after World War II were to a much-modified design. The Mark 8** was the British torpedo most used during World War II and was supplied to destroyers and MTBs as well as submarines. This torpedo was still in front-line use as late as 1982 during the Falklands War when the submarine HMS Conqueror fired three Mod 4 torpedoes at the Argentine cruiser General Belgrano.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_spearfish.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_spearfish
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/uk_spearfish.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_spearfish.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/uk_spearfish.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Spearfish Heavyweight Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Spearfish torpedo (formally Naval Staff Target 7525) is the heavy torpedo used by the submarines of the Royal Navy. It can be guided by wire or by autonomous active or passive sonar, and provides both anti-submarine warfare (ASW) and anti-surface ship warfare (ASuW) capability. Spearfish development began in the 1970s, with production starting in 1988, and deployment in 1992. By 2004, they had completely replaced the older Tigerfish torpedo.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_stingray.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_stingray
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/plan_yu-7_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/plan_yu-7_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/plan_yu-7_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Sting Ray ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Sting Ray is a British acoustic homing lightweight torpedo (LWT) manufactured by GEC-Marconi, who were later bought out by BAE Systems. It entered service in 1983.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_tigerfish.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_tigerfish
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/uk_tigerfish.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_tigerfish.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/uk_tigerfish.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Mark 24 "Tigerfish" Heavyweight Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Mark 24 Tigerfish was a heavyweight acoustic homing torpedo used by the Royal Navy during the 1980s and 90s. Conceptual development dates to the mid-1950s, and formally started in 1959 with a target introduction date in 1969. The first prototype "Tigerfish" examples were delivered in 1967.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/03_Missile/weapon_uk_exocet.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_exocet
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/plan_c-801_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for uk_exocet from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_c-801_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name Exocet Missile (MM40)
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Exocet is a French-built anti-ship missile whose various versions can be launched from surface vessels, submarines, helicopters and fixed-wing aircraft. The Exocet saw its first wartime launch during the Falklands War.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/03_Missile/weapon_uk_seacat.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_seacat
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name GWS.24 Seacat SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description Seacat was a British short-range surface-to-air missile system intended to replace the ubiquitous Bofors 40 mm gun aboard warships of all sizes. It was the world's first operational shipboard point-defence missile system, and was designed so that the Bofors guns could be replaced with minimum modification to the recipient vessel and (originally) using existing fire-control systems.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/03_Missile/weapon_uk_seadart.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon uk_seadart
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name GWS.30 Sea Dart SAM
-02/01/2022 02:14:39 -  SUCCESS: Got Description Sea Dart was a Royal Navy surface-to-air missile system designed in the 1960s and entering service in 1973. It was fitted to the Type 42 destroyers, Type 82 destroyer and Invincible-class aircraft carrier. Originally developed by Hawker Siddeley, the missile was built by British Aerospace after 1977. It was withdrawn from service in 2012.<br/>The system a number of confirmed successful engagements in combat, including six aircraft, a helicopter and an anti-ship missile. It is believed to be the first ship-borne SAM system to destroy an AShM in combat.<br/>The Sea Dart was also operated by the Argentinean Navy on their pair of Type 42 Destroyers.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/94_Sonobouy/weapon_wp_sonobuoy.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon wp_sonobuoy
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for wp_sonobuoy from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Sonobuoys
-02/01/2022 02:14:39 -  SUCCESS: Got Description Soviet aerial dropped sonobuoys equipped with either passive or active sonar.<br/><br/> Helicopter ASW sonobuoys: <br/>RGB-56 RGB-N Iva 'Crow Egg' active (45kg, 2m) (1956-) <br/>RGB-64 RGB-NM Cinar 'Rook Egg' passive (13.5kg, 1m) (range 1-5 km) (1964-) <br/>RGB-73 RGB-NM-1 Zeton passive (range 3-8 km) (1973-). <br/><br/>Fixed wing ASW sonobuoys: <br/>BM-1 RGB-1 'Snipe Egg 1' non-directional passive <br/>BM-2 RGB-2 'Snipe Egg 2' directional passive <br/>BM-3 RGB-3 'Snipe Egg 3' directional active-only
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/01_Torpedo/weapon_plan_yu-1.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon plan_yu-1
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Yu-1 Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description The Yu-1 is a steam-powered dual-purpose torpedo with passive acoustic guidance. The range of the homing system is about 880 yards.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/01_Torpedo/weapon_plan_yu-5.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon plan_yu-5
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/plan_yu-5_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for plan_yu-5 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_yu-5_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name Yu-5 ASW Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description This is the first Chinese wire-guided torpedo, which incorporates much technology from the US Mk-46 in the form of Otto-fuel propulsion. Terminal homing is by a passive/active guidance system with an estimated range of 1600 yards
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/01_Torpedo/weapon_plan_yu-7.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon plan_yu-7
-02/01/2022 02:14:39 -  SUCCESS: Got sprite hud/sprites/plan_yu-7_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/plan_yu-7_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Copied sprite to website/media/weapons/plan_yu-7_sprite.png
-02/01/2022 02:14:39 -  SUCCESS: Got Name Yu-7 Torpedo
-02/01/2022 02:14:39 -  SUCCESS: Got Description Chinese copy of the US Mk-46 airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the CY-1 ASW standoff missile. The guidance system has a range of 1600 yards.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/03_Missile/weapon_plan_c-801.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon plan_c-801
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/plan_c-801_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for plan_c-801 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_c-801_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name YJ-8 Anti-Ship Missile
-02/01/2022 02:14:39 -  SUCCESS: Got Description YJ-8 anti-ship missile(NATO reporting name: CSS-N-4 Sardine) is very similar to the French Exocet and US Harpoon missiles. From submarines it is launched on using a canister similar to Sub-Harpoon, and features similar performance to its western counterparts. Its warhead power is often insufficient to sink a modern warship in one hit.
-02/01/2022 02:14:39 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/03_Missile/weapon_plan_cy-1.txt
-02/01/2022 02:14:39 -  SUCCESS: Got weapon plan_cy-1
-02/01/2022 02:14:39 -  SUCCESS: Got sprite weapons/sprites/plan_cy-1_sprite
-02/01/2022 02:14:39 -  ERROR: Failed to copy Sprite for plan_cy-1 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_cy-1_sprite
-02/01/2022 02:14:39 -  SUCCESS: Got Name CY-1 ASW Rocket
-02/01/2022 02:14:39 -  SUCCESS: Got Description Submarine- and surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Yu-7 lightweight torpedo.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/05_Norway/03_Missile/weapon_knm_penguin.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon knm_penguin
+02/01/2022 21:42:35 -  SUCCESS: Got sprite weapons/sprites/usn_ugm84_sprite
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for knm_penguin from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_ugm84_sprite
+02/01/2022 21:42:35 -  SUCCESS: Got Name Penguin Mk 2 Missile
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Penguin anti-ship missile, designated AGM-119 by the U.S. military, is a Norwegian passive IR seeker-based short-to-medium range anti-ship guided missile, designed for naval use.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/03_Mark45/weapon_usn_mk45.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk45
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk45_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk45_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk45_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 45 Torpedo Mod 1(Mk45)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mk45 was the only nuclear torpedo in service with the USN, intended for use against high-speed, deep-diving, enemy submarines. Westinghouse also marketed a conventional version as the 'Freedom Torpedo'. The Mod 1 is a conjectural weapon assuming nuclear torpedoes would be 'field modified' in a conventional war.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/01_StraightRunners/weapon_usn_mk16.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk16
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk16_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk16_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk16_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 16 Torpedo (Mk16)
+02/01/2022 21:42:35 -  SUCCESS: Got Description These straight-running WW2-vintage torpedoes were in service as anti-ship weapons until 1972, when they were replaced (along with the Mk37 ASW torpedo) by the dual-purpose Mk48. Guidance is limited to a gyro angle and hit probability is low at anything over point-blank range.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/02_Mark37/weapon_usn_mk37_mod2.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk37_mod2
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk37_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk37_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk37_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 37 Mod 2 Torpedo (Anti-Submarine Torpedo)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mark 37 Mod 1 Torpedos were withdrawn from service and refurbished and reissued as Mod 2 Torpedos with deliveries beginning in 1967. The refurbishing involved many changes, one of note being the switch from magnetostrictive to ceramic piezolectric transducers. This change extended the acquisition range to 1000 yards and avoided loss of sensitivity with depth.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/02_Mark37/weapon_usn_mk37_mod3.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk37_mod3
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk37_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk37_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk37_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 37 Mod 3 Torpedo (Anti-Submarine Torpedo)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mark 37 Mod 0 was the standard US Submarine Launced ASW torpedo of the 1960's, this is the Mark 37 Mod 3 is a free-running Passive-Active Homming Torpedo. This is the upgraded version of the Mark 37 Mod 0 Torpedo, featuring improved sensors, and active run time, however the maximum unactivated range remains the same.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/02_Mark37/weapon_usn_nt37c.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_nt37c
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_nt37c_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_nt37c_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_nt37c_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name NT37C Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description The NT37C is a significantly-upgraded Otto-fueled version of the Mark 37 that was primarily used for export. Canada, Italy, and Isreal, among others, all used this torpedo on thier subs as a primary dual-purpose weapon.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/05_Mark48/weapon_usn_mk48_adcap.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk48_adcap
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk48_adcap_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk48_adcap_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk48_adcap_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 48 ADCAP Torpedo (Mk48)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mark 48 ADCAP is an improvement of the Mk48 boasting increased speed and better electronics, allowing it to effectively engage faster and deeper diving enemy submarines, such as the Alfa.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/05_Mark48/weapon_usn_mk48.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk48
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk48_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk48_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk48_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 48 Torpedo (Mk48)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mk48 is an advanced dual-purpose torpedo in service with the US Navy since 1972 where it has replaced the Mk14 and Mk37 torpedoes. It combines great speed and an advanced passive/active homing system along with an impressive range of 3000 yards.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/06_Mark50/weapon_usn_mk50.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk50
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk50_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk50_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk50_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 50 Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mark 50 torpedo was a U.S. Navy advanced lightweight torpedo for use against fast, deep-diving submarines intended to replace the Mk 46 as the fleet's lightweight torpedo.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/04_Mark46/weapon_usn_mk46_mod_5.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk46_mod_5
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk46_mod_5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk46_mod_5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk46_mod_5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 46 Mod 5 NEARTIP Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mark 46 Mod 5 NEARTIP Upgrade kit for the Mark 46 with more powerful Mk 103 Mod 1 warhead, improved computer with snake search pattern capability, new passive/active sonar, liquid fuel, and two speed engine for low speed search and high speed attack. Introduced in 1979. NEARTIP stands for Near Term Improvement Program.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/01_Torpedo/04_Mark46/weapon_usn_mk46.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_mk46
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_mk46_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_mk46_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_mk46_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 46 Mod 0 Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Mark 46 is the US Navy's standard airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the RUR-5 ASROC rocket assisted torpedo. The guidance system has a range of 1600 yards.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/02_Decoy/weapon_usn_moss.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_moss
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_moss_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_moss_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_moss_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name Mark 70 Mobile Submarine Simulator (MOSS)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The MK70 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth, which means a submarine can launch it and escape on the opposite side of the layer.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/03_LandAttack/02_SLBM/weapon_usn_trident_1.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_trident_1
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_trident_1_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_trident_1_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_trident_1_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name UGM-96 Trident I
+02/01/2022 21:42:35 -  SUCCESS: Got Description The UGM-96 Trident I is a U.S. Navy submarine-launched ballistic missile (SLBM) that first entered service in 1979. It was a major development over the proceeding Poseidan SLBM, as it allowed ballistic missile submarines to launch nuclear strikes from the central Atlantic Ocean. This in turn kept them safe from Soviet ASW forces. The missile was then retrofitted into several of the older SSBN classes and Ohio-class submarines. It remained in service until 2005, when it was replaced by the UGM-133 Trident II.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/03_LandAttack/01_CruiseMissile/weapon_usn_tlam.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_tlam
+02/01/2022 21:42:35 -  SUCCESS: Got sprite weapons/sprites/usn_tlam_sprite
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for usn_tlam from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_tlam_sprite
+02/01/2022 21:42:35 -  SUCCESS: Got Name Tomahawk Land Attack Missile (TLAM)
+02/01/2022 21:42:35 -  SUCCESS: Got Description Land attack version of the UGM-109 Tomahawk missile. It carries either a conventional high-explosive warhead or cluster munitions. Advanced contour matching and terrain-following radar allows its destructive power to be delivered with pin-point accuracy.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/02_ASM/weapon_usn_tasm.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_tasm
+02/01/2022 21:42:35 -  SUCCESS: Got sprite weapons/sprites/usn_tasm_sprite
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for usn_tasm from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_tasm_sprite
+02/01/2022 21:42:35 -  SUCCESS: Got Name Tomahawk Missile (TASM)
+02/01/2022 21:42:35 -  SUCCESS: Got Description This is the anti-ship version of the UGM-109 Tomahawk missile. Compared to the Harpoon, it is faster and packs a significantly larger punch. However being larger makes it a bigger target for CIWS.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/02_ASM/weapon_usn_ugm84.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_ugm84
+02/01/2022 21:42:35 -  SUCCESS: Got sprite weapons/sprites/usn_ugm84_sprite
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for usn_ugm84 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_ugm84_sprite
+02/01/2022 21:42:35 -  SUCCESS: Got Name Harpoon Missile (UGM-84)
+02/01/2022 21:42:35 -  SUCCESS: Got Description The Sub-Harpoon has equipped US submarines and their allies since the early 70's. Although a small weapon, with a small warhead and comparatively slow it is very effective against small enemies lacking anti-missile defences. Against better armed targets they probably best launched in salvos to guarantee a hit.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rim-66
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RIM-66A Standard Missile 1 MR
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/>The RIM-66 Standard is an medium range surface-to-air missile (SAM) and anti ship missile originally developed for the United States Navy. The RIM-67 was developed as a replacement for the RIM-8 Talos, a 1950s system deployed on a variety of USN ships, and eventually replaced the RIM-2 Terrier as well, since it was of a similar size and fitted existing Terrier launchers and magazines. The RIM-66 Standard MR was essentially the same missile without the booster stage, designed to replace the RIM-24 Tartar. The RIM-66/67 series thus became the US Navy's universal SAM system, hence the "Standard Missile" moniker. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66c.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rim-66c
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rim-66cm_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66cm_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66cm_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RIM-66C Standard Missile 2 MR
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/>The RIM-66C Standard MR (SM-2MR Block I) was developed in the 1970s and was a key part of the Aegis combat system and New Threat Upgrade (NTU). The SM-2MR introduced inertial and command mid-course guidance. The missile's autopilot is programmed to fly the most efficient path to the target and can receive course corrections from the ground. Target illumination for semi-active homing is needed only for a few seconds in the terminal phase of the interception. This capability enables the Aegis combat system and New Threat Upgrade equipped vessels to time share illumination radars, greatly increasing the number of targets that can be engaged in quick succession
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66e.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rim-66e
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RIM-66E Standard Missile 1 MR
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile <br/>The RIM-66E was the last version of the Standard Missile One Medium-Range (SM-1MR). This version entered service in 1983 with the United States Navy. The RIM-66E was used by the Oliver Hazard Perry-class frigates which controlled it with the Mk92 fire control system. Production of this missile ended in 1987; however there are a large number of this model in service and it is expected to remain viable until 2020. The missile features monopulse seeker developed for SM-2, a MK 45 MOD 4 proximity fuze (also known as TDD - Target Detection Device), the MK 115 warhead of SM-2, and MK 45 MOD 6 and MK 45 MOD 7 proximity fuzes.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-66m-5.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rim-66m
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rim-66cm_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66cm_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66cm_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RIM-66M-5 Standard Missile 2 MR
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/>The RIM-66M-5 (SM-2MR Block IIIB) is the version of the Standard missile two medium range (SM-2MR) entered serive in 1998, with the USN aboard Ticonderoga class cruisers, and Arleigh Burke class destroyers. The missile is specifically designed for the Aegis Combat System and the Mk41 Vertical launch system. The Block IIIB missiles differ from earlier blocks by the addition of the MK 45 MOD 9 target detecting device, for improved performance against low altitude targets, and dual semi-active/infrared seeker for terminal homing. The dual seeker is intended for use in high-ECM environments, against targets over the horizon or with a small radar cross section. The seeker was originally developed for the canceled AIM-7R Sparrow air-to-air missile.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-67a.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rim-67a
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rim-67_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-67_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-67_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RIM-67A Standard Missile 1 ER
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Surface-to-Air & Anti-Ship Missile<br/><br/>The RIM-67 Standard ER (SM-1ER/SM-2ER) is an extended range surface-to-air missile (SAM) and anti ship missile originally developed for the United States Navy. The RIM-67 was developed as a replacement for the RIM-8 Talos, a 1950s system deployed on a variety of USN ships, and eventually replaced the RIM-2 Terrier as well, since it was of a similar size and fitted existing Terrier launchers and magazines. The RIM-66 Standard MR was essentially the same missile without the booster stage, designed to replace the RIM-24 Tartar. The RIM-66/67 series thus became the US Navy's universal SAM system, hence the "Standard Missile" moniker. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/01_SAM/weapon_usn_rim-7m.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rim-7m
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RIM-7 Sea Sparrow SAM
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Universal<br/>RIM-7 Sea Sparrow is a U.S. ship-borne short-range anti-aircraft and anti-missile weapon system, primarily intended for defense against anti-ship missiles. The system was developed in the early 1960s from the AIM-7 Sparrow air-to-air missile as a lightweight "point-defense" weapon that could be retrofitted to existing ships as quickly as possible, often in place of existing gun-based anti-aircraft weapons. In this incarnation, it was a very simple system guided by a manually aimed radar illuminator. After its introduction, the system underwent significant development into an automated system similar to other US Navy missiles like the RIM-2 Terrier. Contemporary improvements being made to the Sparrow for the air-to-air role led to similar improvements in the Sea Sparrow through the 1970s and 80s. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/04_ASROC/weapon_usn_68_rur-5.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_68_rur-5
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_68_rur-5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_68_rur-5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_68_rur-5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RUR-5 ASROC ASW Rocket (1968)
+02/01/2022 21:42:35 -  SUCCESS: Got Description Surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 lightweight torpedo.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/04_ASROC/weapon_usn_84_rur-5.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_84_rur-5
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_84_rur-5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_84_rur-5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_84_rur-5_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RUR-5 ASROC ASW Rocket (1984)
+02/01/2022 21:42:35 -  SUCCESS: Got Description Surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mk-46 Mod 5 NEARTIP lightweight torpedo.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/04_ASROC/weapon_usn_rum-139.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_rum-139
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_rum-139_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rum-139_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_rum-139_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name RUM-139 VL-ASROC ASW Rocket
+02/01/2022 21:42:35 -  SUCCESS: Got Description Surface ship-vertical launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Mark 46 Mod 5 NEARTIP lightweight torpedo. The VL-ASROC as increased range over the earlier RUR-5 ASROC
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/01_USN/03_Missile/03_SUBROC/weapon_usn_uum-125b.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon usn_uum-125b
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/usn_uum-125b_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_uum-125b_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/usn_uum-125b_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name UUM-125B Sea Lance
+02/01/2022 21:42:35 -  SUCCESS: Got Description A conventionally armed variant of the UUM-125A Nuclear Tipped ASW Standoff Weapon.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_test-71m.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_test-71m
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud\sprites\wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name TEST-71M Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description This 4th generation electrical torpedo is an improved version of the TEST-71 wire-guided torpedo. The speed and range are the same but the previous restrictions on wire guidance has been removed.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_test-71mke.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_test-71mke
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud\sprites\wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name TEST-71MK Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description This 5th generation electrical torpedo is a further improvement of the TEST-71M wire-guided torpedo. The speed and range remain the same but the new "Keramika" guidance system with increaced sensor range has been installed.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_uset-80.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_uset-80
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud\sprites\wp_uset-80_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_uset-80_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_uset-80_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name USET-80 Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Optional wake-homing<br/>This soviet 5th generation dual-purpose torpedo equips the latest technology and boasts higher performance than SET-65. It has an active/passive homing system with a extended range, making this a dangerous weapon to contend with. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Optional wake-homing activates when torpedo launched in "SHALLOW" mode and works in conjunction with common guidance system.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/03_DualPurpose/weapon_wp_uset-80k.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_uset-80k
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud\sprites\wp_uset-80_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_uset-80_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_uset-80_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name USET-80K Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description This Soviet dual-purpose torpedo is an upgrade over the USET-80. It has an improved sensor range, but lacks wake-homing.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-40.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_set-40
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_set-40_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-40_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-40_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name SET-40 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW, Small caliber<br/>The SET-40 is an 4th generation electrical anti-submarine torpedo with active/passive acoustic guidance. Due to its size it can be loaded only into 400mm torpedo tubes. Also, smaller size means that it takes less time to load. Will not lock on surface targets.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-65.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_set-65
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name SET-65 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW<br/>The SET-65 is a 3rd generation electrical anti-submarine torpedo with active acoustic guidance. Will not lock on surface targets.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-65k.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_set-65k
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name SET-65K Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description The latest modification of SET-65, 5th generation SET-65K is an electrical dual-purpose torpedo with newer guidance system "Keramika" which is capable to lock on both submerged and surface targets and has an increaced sensor range.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_set-65m.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_set-65m
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_set-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name SET-65 III Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW<br/>The SET-65 III is a 4th generation electrical anti-submarine torpedo. It is a moderinzed version of original SET-65 torpedo with new active/passive "Sapfir" guidance system. Will not lock on surface targets.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_test-68.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_test-68
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud\sprites\wp_test-68_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-68_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-68_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name TEST-68 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW, Limited wire guidance<br/> The TEST-68 was the first wire-guided topredo developed by the Soviet Union. It was first deployed in 1969, and was a much smaller, slower, and shorter-ranged weapon than its sucessor.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/02_ASW/weapon_wp_test-71.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_test-71
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud\sprites\wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud\sprites\wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_test-71_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name TEST-71 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW, Limited wire guidance<br/>This 4th generation electrical torpedo improves on the SET-65 by introducing basic wire guidance and more advanced active/passive homing capabilities of "Sapfir" guidance system. However the range of the homing system remains the same. Will not lock on surface targets. Horizontal-only wire guidance. Wire breaks at depth less then 12 meters.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_53-65.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_53-65
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_53-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_53-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_53-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name 53-65 Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Wake-homing<br/>The 53-65 torpedo family are Russian made wake-homing torpedoes designed to destroy surface ships. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_53-65k.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_53-65k
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_53-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_53-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_53-65_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name 53-65K
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Wake-homing<br/>Anti-ship torpedo. The 53-65K is the upgraded version of the 53-65 torpedo. It has an extended range due to new propulsion system. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_65-76.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_65-76
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_65-76_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_65-76_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_65-76_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name 65-76 "Whale" Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Wake-homing, Large caliber<br/>The 65-76 is a 650mm wake-homing torpedo manufactured in the Soviet Union/Russia. It was developed for use against US Navy aircraft carrier battle groups, as well as large merchant targets such as supertankers or superfreighters. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Due to its size it can be loaded only into 650mm torpedo tubes. Also, bigger size means that it takes more time to load.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_saet-60m.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_saet-60m
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_saet-60m_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_saet-60m_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_saet-60m_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name SAET-60M Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Anti-ship only.<br/>The SAET-60M is an anti-ship torpedo specifically designed for the self-defense from ASW assets. It can lock only on surface targets and useless against submerged submarines. Due to it passive sensor system and the anti-ship only usage, its effective sensor range is four times smaller than specified and is about 600m (656 yards).
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/01_ASuW/weapon_wp_shkval.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_shkval
+02/01/2022 21:42:35 -  SUCCESS: Got sprite hud/sprites/wp_shkval_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_shkval_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Copied sprite to website/media/weapons/wp_shkval_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name VA-111 Shkval Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: Piercing.<br/>The VA-111 Shkval supercavitating torpedo originally developed by the Soviet Union. It is capable of speeds in excess of 200 knots. While it has weak warhead on paper, it is capable of dealing tremendous damage because due to high speed it pierces ship's hull and detonates inside, which often leads to detonation of ship's munitions or fuel.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/04_AirDropped/weapon_wp_at-1.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_at-1
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for wp_at-1 from main/ColdWaters_Data/StreamingAssets/dotmod/wp_shkval_sprite.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name AT-1 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW<br/>The AT-1 is an 4th generation electrical air-dropped torpedo with active/passive acoustic guidance carried only by helicopters. Will not lock on surface targets.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/04_AirDropped/weapon_wp_at-2.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_at-2
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for wp_at-2 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name AT-2 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW<br/>The AT-2 is an 4th generation electrical heavy-weight, anti-submarine, air-launched torpedo with active/passive acoustic guidance. Carried by aircraft and some ASW missiles. Will not lock on surface targets. In order to achieve the requested range, speed and detection range, a large diameter torpedo was required. This makes the AT-2 one of the few air-launched heavy-weight torpedoes developed during the Cold War. The majority of the air-launched torpedoes are much smaller and only a quarter of the weight. These features preclude the operability of this torpedo from anti-submarine helicopters.<br/>While there is a number of modifications of AT-2 in real world, they are represented by a single version in the game since their differences are irrelevant gamewise.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/01_Torpedo/04_AirDropped/weapon_wp_umgt-1.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_umgt-1
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for wp_umgt-1 from main/ColdWaters_Data/StreamingAssets/dotmod/WIP.png
+02/01/2022 21:42:35 -  SUCCESS: Got Name UGMT-1 ASW Torpedo
+02/01/2022 21:42:35 -  SUCCESS: Got Description Special: ASW<br/>4th generation electrical torpedo that equips most Soviet helicopters, ASW aircraft and serves as the payload for the SS-N-14 and SS-N-16 ASW missiles. Being lightweight, their warheads are weaker than torpedoes used by ships or submarines. Will not lock on surface targets.
+02/01/2022 21:42:35 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/02_Decoy/weapon_wp_moss_mg-14.txt
+02/01/2022 21:42:35 -  SUCCESS: Got weapon wp_moss_mg-14
+02/01/2022 21:42:35 -  SUCCESS: Got sprite weapons/sprites/usn_moss_sprite
+02/01/2022 21:42:35 -  ERROR: Failed to copy Sprite for wp_moss_mg-14 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name МG-14 "Anabar" Self-Propelled Decoy
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Small caliber<br/>The MG-14 was a passive countermeasure deployed by the Soviet Union to divert torpedoes away from the launching submarine. Due to its size it can be loaded only into 400mm torpedo tubes. Also, smaller size means that it takes less time to load.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/02_Decoy/weapon_wp_moss_mg-74.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_moss_mg-74
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/usn_moss_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for wp_moss_mg-74 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/usn_moss_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name U.S.S.R.\n MG-74 "Korund-2"\n 533mm-cal Self-Propelled Decoy
+02/01/2022 21:42:36 -  SUCCESS: Got Description The MG-74 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth, which means a submarine can launch it and escape on the opposite side of the layer.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/03_LandAttack/02_SLBM/weapon_wp_r21.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_r21
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_r21_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_r21_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_r21_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name R27 SLBM
+02/01/2022 21:42:36 -  SUCCESS: Got Description The R-27 (NATO: SS-N-5 Sark/Serb), was submarine-launched ballistic missile in service with the Soviet Union between 1963 and 1989. It was the first Soviet nuclear missile that could be launched from a submerged submarine, and also had twice the range of earlier missiles. It replaced the R-11FM and R-13 (SS-N-4) on many Golf and Hotel-class submarines, and was in turn superseded by the R-27 (SS-N-6 'Serb') missile carried by Yankee-class submarines.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/03_LandAttack/02_SLBM/weapon_wp_r27.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_r27
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/r27_slbm_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/r27_slbm_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/r27_slbm_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name R27 SLBM
+02/01/2022 21:42:36 -  SUCCESS: Got Description The R-27 (NATO: SS-N-6 Serb), was one of the first Soviet SLBM's capable of being launched while completely submerged. The first and only installations where on the Yankee I-class SSBN starting in 1968, and it was finally withdrawn by 1988, with the SALT treaties.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/03_LandAttack/01_CruiseMissile/weapon_wp_s-10.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_s-10
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_s-10_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_s-10_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_s-10_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name S-10 "Granat" Cruise Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description The S-10 "Granat" (NATO reporting name: SS-N-21 Sampson) is a turbojet-powered, submarine launched land attack missile used by the Soviet navy. It resembles Tomahawk Land Attack Missile in various aspects, such as profile and usage.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/05_SUBROC/weapon_wp_rpk-2-65.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_rpk-2-65
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_rpk-2-65_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_rpk-2-65_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_rpk-2-65_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name RPK-2 "Vyuga-65" ASW Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Large caliber<br/>The RPK-2 "Vyuga-65"(NATO reporting name: SS-N-15B Starfish) is a larger version of SS-N-15 designed for use in 650mm torpedo tubes instead of 530mm tubes. It carries more potent AT-2 torpedo.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/05_SUBROC/weapon_wp_rpk-2.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_rpk-2
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_rpk-2-53_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_rpk-2-53_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_rpk-2-53_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name RPK-2 "Vjuga" ASW Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description (NATO reporting name: SS-N-15)Submarine-launched stand-off ASW missile. It is similar to the SS-N-14 but drops the AT-1 homing torpedo.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/05_SUBROC/weapon_wp_rpk-6.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_rpk-6
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/wp_ss-n-16_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for wp_rpk-6 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_ss-n-16_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name RPK-6 "Vodopad" ASW Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description RPK-6 "Vodopad"(NATO classification: SS-N-16 Stallion) is a underwater-launched stand-off ASW missile. It is similar to the SS-N-15 but drops the UGMT-1 homing torpedo.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-120.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_p-120
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_p-120_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-120_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-120_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name P-120 "Malakhit" Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description The P-120 "Malakhit" (NATO reporting name: SS-N-9 Siren) is a Soviet medium range anti-ship missile used by corvettes and submarines. Introduced in 1972, it remains in service but has been superseded by the SS-N-22 Sunburn.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-270.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_p-270
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_p-270.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-270.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-270.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name P-270 "Moskit" Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description The P-270 "Moskit" (NATO reporting name: SSS-N-22 Sunburn) is a Soviet supersonic ramjet powered anti-ship cruise missile.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-6.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_p-6
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_p-6_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-6_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-6_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name P-6 Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Universal<br/>The SS-N-3A Shaddock was a anti-ship/land-attack missile carried by The Juliett and Echo II guided missile submarines. Guidance system is universal and allows switch between ship-attack and land-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-70.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_p-70
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/wp_ss-n-7_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for wp_p-70 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/wp_ss-n-7_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name "Amethyst" Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description P-70 "Amethyst" (NATO reporting name: SS-N-7 Starbright) is a high-subsonic cruise missile designed for the Papa and Charlie 1-class submarines. Earlier submarines of the Echo and Juliet classes used the SS-N-3 Shaddock supersonic cruise missile, whose mid-course guidance required the launching submarine to stay surfaced for long periods. The SS-N-7 instead uses submerged launch, and the relatively short range of the missile means no midcourse guidance is necessary and the submarine can use its own sensors for targeting.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_p-700.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_p-700
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_p-700_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_p-700_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_p-700_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name P-700 "Granit" Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Universal<br/>The P-700 "Granit"(NATO reporting name: SS-N-19 Shipwreck) is a Russian naval anti-ship/land-attack cruise missile. It comes in surface-to-surface and submarine-launched variants. It was designed in the 1970s to replace the P-70 Ametist and P-120 Malakhit, both effective missiles but with too short a range in the face of improving weapons of U.S. Navy carrier battlegroups. Guidance system is universal and allows switch between ship-attack and land-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/02_ASM/weapon_wp_urk-5.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_urk-5
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_urpk-3_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_urpk-3_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_urpk-3_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name URK-5 "Rastrub-B" Anti-ship/Anti-sub Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Dual-purpose<br/>URK-5 "Rastrub-B" (NATO classification: SS-N-14 Silex) is a modernization of an URPK-3 "Metel'". Anti-ship mode was introduced and it could be used both against surface and submerged targets, giving ships like the Krivak ASuW capabilities without reducing storage for thier ASW missiles. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/02_MANPADS/weapon_wp_igla.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_igla
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name "Igla" MANPADS
+02/01/2022 21:42:36 -  SUCCESS: Got Description The 9K38 "Igla" (NATO reporting name: SA-18 Grouse) is a Soviet man-portable infrared homing surface-to-air missile system.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/02_MANPADS/weapon_wp_strela-2.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_strela-2
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name "Strela-2" MANPADS
+02/01/2022 21:42:36 -  SUCCESS: Got Description The 9K32 Strela-2 (NATO reporting name: SA-7 Grail) is a passive-infared homing MANPADS system. It can often be found in a submarine's conning tower for close-range anti-aircraft defense.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_kinzhal.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_kinzhal
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name "Kinzhal" SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description "Kinzhal" SAM (NATO reporting name: SA-N-9 Gauntlet) is a Soviet naval surface-to-air missile system found on Udaloy-class vessels.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_m-11.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_m-11
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Shtorm SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Universal<br/>The Shtorm(NATO reporting name: SA-N-3 Goblet) is a Soviet naval surface-to-air missile system. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_m-22.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_m-22
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Uragan SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Uragan(NATO reporting name: SA-N-7 Gadfly) is a Soviet naval surface-to-air missile system.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_m-4.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_m-4
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Osa-MA SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Universal<br/>The Osa-MA(NATO reporting name: SA-N-4 Gecko) is a Soviet short-range, surface-to-air missile system for shipboard point defense. It is a naval variant of the SA-8 Gecko system. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/01_SAM/01_NavalSAM/weapon_wp_s-300.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_s-300
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name S-300F "Fort" SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Universal<br/>S-300F "Fort" SAM (NATO reporting name: SA-N-6 Grumble) is a Soviet naval long range surface-to-air missile system. Guidance system is universal and allows switch between missile, aircraft and ship-attack mode. Mode can be switched in the weapon settings just before launch.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/99_Special/weapon_wp_3m-54.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_3m-54
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_3m-54_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_3m-54_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_3m-54_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name 3M-54 "Kalibr" Anti-ship missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description Special: Came from future<br/>The 3M-54 "Kalibr" (NATO: SS-N-27B Sizzler) is a modern russian anti-ship missile. Since it falls out of the game's timeframe, it is here only for testing purposes and its stats and functions can differ from real ones.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/02_WP/03_Missile/04_ASROC/weapon_wp_urpk-3.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_urpk-3
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/wp_urpk-3_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/wp_urpk-3_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/wp_urpk-3_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name URPK-3 "Metel'" ASW Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description URPK-3 "Metel'" (NATO classification: SS-N-14 Silex) is a subsonic ASW missile equipped on most Soviet large anti-submarine ships as well as the frigates of the Krivak class. It can be launched to the first convergence zone, and drops an AT-2 homing torpedo. Because it has a larger range than the effective range of the surface ship sonar, it can use targeting data transmitted from any friendly sea or air unit via datalink.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_mk20s.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_mk20s
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/uk_mk20s.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_mk20s.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/uk_mk20s.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Mark 20S "Bidder" Submarine Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description Passive Homing Torpedo of the Royal Navy, developed in the 1950s and in service until replaced by Mark 24 Tigerfish in the 1980s.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_mk8mod4.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_mk8mod4
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/uk_mk8mod4.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_mk8mod4.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/uk_mk8mod4.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Mark 8 Mod 4 Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Mark VIII was the first burner-cycle torpedo in service. Although the original design dates from the 1920s, those manufactured during and after World War II were to a much-modified design. The Mark 8** was the British torpedo most used during World War II and was supplied to destroyers and MTBs as well as submarines. This torpedo was still in front-line use as late as 1982 during the Falklands War when the submarine HMS Conqueror fired three Mod 4 torpedoes at the Argentine cruiser General Belgrano.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_spearfish.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_spearfish
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/uk_spearfish.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_spearfish.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/uk_spearfish.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Spearfish Heavyweight Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Spearfish torpedo (formally Naval Staff Target 7525) is the heavy torpedo used by the submarines of the Royal Navy. It can be guided by wire or by autonomous active or passive sonar, and provides both anti-submarine warfare (ASW) and anti-surface ship warfare (ASuW) capability. Spearfish development began in the 1970s, with production starting in 1988, and deployment in 1992. By 2004, they had completely replaced the older Tigerfish torpedo.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_stingray.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_stingray
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/plan_yu-7_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/plan_yu-7_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/plan_yu-7_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Sting Ray ASW Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Sting Ray is a British acoustic homing lightweight torpedo (LWT) manufactured by GEC-Marconi, who were later bought out by BAE Systems. It entered service in 1983.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/01_Torpedo/weapon_uk_tigerfish.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_tigerfish
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/uk_tigerfish.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/uk_tigerfish.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/uk_tigerfish.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Mark 24 "Tigerfish" Heavyweight Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Mark 24 Tigerfish was a heavyweight acoustic homing torpedo used by the Royal Navy during the 1980s and 90s. Conceptual development dates to the mid-1950s, and formally started in 1959 with a target introduction date in 1969. The first prototype "Tigerfish" examples were delivered in 1967.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/03_Missile/weapon_uk_exocet.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_exocet
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/plan_c-801_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for uk_exocet from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_c-801_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name Exocet Missile (MM40)
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Exocet is a French-built anti-ship missile whose various versions can be launched from surface vessels, submarines, helicopters and fixed-wing aircraft. The Exocet saw its first wartime launch during the Falklands War.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/03_Missile/weapon_uk_seacat.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_seacat
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name GWS.24 Seacat SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description Seacat was a British short-range surface-to-air missile system intended to replace the ubiquitous Bofors 40 mm gun aboard warships of all sizes. It was the world's first operational shipboard point-defence missile system, and was designed so that the Bofors guns could be replaced with minimum modification to the recipient vessel and (originally) using existing fire-control systems.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/04_UK/03_Missile/weapon_uk_seadart.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon uk_seadart
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name GWS.30 Sea Dart SAM
+02/01/2022 21:42:36 -  SUCCESS: Got Description Sea Dart was a Royal Navy surface-to-air missile system designed in the 1960s and entering service in 1973. It was fitted to the Type 42 destroyers, Type 82 destroyer and Invincible-class aircraft carrier. Originally developed by Hawker Siddeley, the missile was built by British Aerospace after 1977. It was withdrawn from service in 2012.<br/>The system a number of confirmed successful engagements in combat, including six aircraft, a helicopter and an anti-ship missile. It is believed to be the first ship-borne SAM system to destroy an AShM in combat.<br/>The Sea Dart was also operated by the Argentinean Navy on their pair of Type 42 Destroyers.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/94_Sonobouy/weapon_wp_sonobuoy.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon wp_sonobuoy
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for wp_sonobuoy from main/ColdWaters_Data/StreamingAssets/dotmod/usn_rim-66_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Sonobuoys
+02/01/2022 21:42:36 -  SUCCESS: Got Description Soviet aerial dropped sonobuoys equipped with either passive or active sonar.<br/><br/> Helicopter ASW sonobuoys: <br/>RGB-56 RGB-N Iva 'Crow Egg' active (45kg, 2m) (1956-) <br/>RGB-64 RGB-NM Cinar 'Rook Egg' passive (13.5kg, 1m) (range 1-5 km) (1964-) <br/>RGB-73 RGB-NM-1 Zeton passive (range 3-8 km) (1973-). <br/><br/>Fixed wing ASW sonobuoys: <br/>BM-1 RGB-1 'Snipe Egg 1' non-directional passive <br/>BM-2 RGB-2 'Snipe Egg 2' directional passive <br/>BM-3 RGB-3 'Snipe Egg 3' directional active-only
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/01_Torpedo/weapon_plan_yu-1.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon plan_yu-1
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/WIP.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Yu-1 Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description The Yu-1 is a steam-powered dual-purpose torpedo with passive acoustic guidance. The range of the homing system is about 880 yards.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/01_Torpedo/weapon_plan_yu-5.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon plan_yu-5
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/plan_yu-5_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for plan_yu-5 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_yu-5_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name Yu-5 ASW Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description This is the first Chinese wire-guided torpedo, which incorporates much technology from the US Mk-46 in the form of Otto-fuel propulsion. Terminal homing is by a passive/active guidance system with an estimated range of 1600 yards
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/01_Torpedo/weapon_plan_yu-7.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon plan_yu-7
+02/01/2022 21:42:36 -  SUCCESS: Got sprite hud/sprites/plan_yu-7_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got sprite from main/ColdWaters_Data/StreamingAssets/dotmod/hud/sprites/plan_yu-7_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Copied sprite to website/media/weapons/plan_yu-7_sprite.png
+02/01/2022 21:42:36 -  SUCCESS: Got Name Yu-7 Torpedo
+02/01/2022 21:42:36 -  SUCCESS: Got Description Chinese copy of the US Mk-46 airdropped passive/active torpedo. Being a smaller weapon, it packs less of a punch, but is carried by helicopters, aircraft and serves as the payload for the CY-1 ASW standoff missile. The guidance system has a range of 1600 yards.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/03_Missile/weapon_plan_c-801.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon plan_c-801
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/plan_c-801_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for plan_c-801 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_c-801_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name YJ-8 Anti-Ship Missile
+02/01/2022 21:42:36 -  SUCCESS: Got Description YJ-8 anti-ship missile(NATO reporting name: CSS-N-4 Sardine) is very similar to the French Exocet and US Harpoon missiles. From submarines it is launched on using a canister similar to Sub-Harpoon, and features similar performance to its western counterparts. Its warhead power is often insufficient to sink a modern warship in one hit.
+02/01/2022 21:42:36 -  File: Got file /home/runner/work/ColdWaters-DotMod/ColdWaters-DotMod/main/ColdWaters_Data/StreamingAssets/dotmod/weapons/03_PLAN/03_Missile/weapon_plan_cy-1.txt
+02/01/2022 21:42:36 -  SUCCESS: Got weapon plan_cy-1
+02/01/2022 21:42:36 -  SUCCESS: Got sprite weapons/sprites/plan_cy-1_sprite
+02/01/2022 21:42:36 -  ERROR: Failed to copy Sprite for plan_cy-1 from main/ColdWaters_Data/StreamingAssets/dotmod/weapons/sprites/plan_cy-1_sprite
+02/01/2022 21:42:36 -  SUCCESS: Got Name CY-1 ASW Rocket
+02/01/2022 21:42:36 -  SUCCESS: Got Description Submarine- and surface ship-launched stand-off ASW rocket that flies on an unguided ballistic trajectory and drops a homing Yu-7 lightweight torpedo.
